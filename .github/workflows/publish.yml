@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.github_token }}
           prefix: ${{ github.ref }}
-      - run: ./gradlew publish --stacktrace
+      - run: ./gradlew build publish --stacktrace
         env:
           MAVEN_URL: ${{ secrets.NEW_MAVEN_URL }}
           MAVEN_USERNAME: ${{ secrets.NEW_MAVEN_USERNAME }}
