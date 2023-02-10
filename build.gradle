@@ -15,7 +15,7 @@ file('nests').eachFile {
 	def nests = it
 	def mcVer = nests.name.replace(".nest", "")
 
-	def makeJar = task("${mcVer}_makeJar", type: Jar) {
+	def makeJar = task("${mcVer}-${build_number}_makeJar", type: Jar) {
 		baseName "nests-${mcVer}"
 		from(file(nests)) {
 			into "nests"
