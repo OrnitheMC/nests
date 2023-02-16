@@ -61,7 +61,7 @@ file("nests").eachFile {
 		def prevNests = new File(temp, "mappings.nest")
 
 		download {
-			src new URL("${maven_url}/${maven_group_for_url}/${artifact_id}/${prevVersion}/${prevVersion}.jar")
+			src new URL("${maven_url}/${maven_group_for_url}/${artifact_id}/${prevVersion}/nests-${prevVersion}.jar")
 			dest prevJar
 			overwrite true
 		}
