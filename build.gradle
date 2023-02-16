@@ -1,3 +1,4 @@
+import java.util.regex.Pattern
 import org.apache.commons.io.FileUtils
 
 buildscript {
@@ -61,7 +62,7 @@ file("nests").eachFile {
 
 		download {
 			src new URL("${maven_url}/${maven_group_for_url}/${artifact_id}/${prevVersion}/${prevVersion}.jar")
-			dst prevJar
+			dest prevJar
 			overwrite true
 		}
 		copy {
