@@ -1,3 +1,14 @@
+import org.apache.commons.io.FileUtils
+
+buildscript {
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath "commons-io:commons-io:2.8.0"
+	}
+}
+
 plugins {
 	id 'de.undercouch.download' version '4.1.1'
 	id 'java'
@@ -5,18 +16,73 @@ plugins {
 }
 
 def ENV = System.getenv()
-def build_number = ENV.BUILD_NUMBER ? ENV.BUILD_NUMBER : "local"
+def maven_url = ENV.MAVEN_URL
+def maven_group = "net.ornithemc"
+def maven_group_for_url = "net.ornithemc".replace(".", "/")
+def artifact_id = "nests"
+def publishedVersions = new HashMap<String, Integer>()
 
-file('nests').eachFile {
+if (maven_url) {
+	try {
+		def xml = new URL("${maven_url}/${maven_group_for_url}/${artifact_id}/maven-metadata.xml").text
+		def metadata = new XmlSlurper().parseText(xml)
+		metadata.versioning.versions.version.each {
+			String rawVersion = it.text()
+			int i = rawVersion.lastIndexOf('-')
+			String mcVersion = rawVersion.substring(0, i)
+			int build = Integer.parseInt(rawVersion.substring(i + 1))
+			publishedVersions.compute(mcVersion, (key, value) -> value == null || build > value ? build : value)
+		}
+	} catch (FileNotFoundException ignored) {
+		// only happens if no publications exist yet
+	}
+}
+
+def temp = file(".gradle/temp/")
+
+static String version(String mcVersion, int build) {
+	return "${mcVersion}+build.${build}"
+}
+
+file("nests").eachFile {
 	if (!it.name.endsWith(".nest")) {
 		return
 	}
 
 	def nests = it
-	def mcVer = nests.name.replace(".nest", "")
+	def mcVersion = nests.name.replace(".nest", "")
+	def prevBuild = publishedVersions.getOrDefault(mcVersion, 0)
+	def nextBuild = prevBuild + 1
 
-	def makeJar = task("${mcVer}-${build_number}_makeJar", type: Jar) {
-		baseName "nests-${mcVer}"
+	if (prevBuild > 0) {
+		def prevVersion = version(mcVersion, prevBuild)
+
+		def prevJar = new File(temp, "nests.jar")
+		def prevNests = new File(temp, "mappings.nest")
+
+		download {
+			src new URL("${maven_url}/${maven_group_for_url}/${artifact_id}/${prevVersion}/${prevVersion}.jar")
+			dst prevJar
+			overwrite true
+		}
+		copy {
+			from({ zipTree(prevJar) }) {
+				from "nests/mappings.nest"
+				rename "mappings.nest", "../${prevNests.name}"
+			}
+
+			into prevNests.parentFile
+		}
+
+		if (FileUtils.contentEquals(nests, prevNests)) {
+			return
+		}
+	}
+
+	def nextVersion = version(mcVersion, nextBuild)
+
+	def makeJar = task("${nextVersion}_makeJar", type: Jar) {
+		baseName "nests-${nextVersion}"
 		from(file(nests)) {
 			into "nests"
 			rename nests.name, "mappings.nest"
@@ -28,10 +94,10 @@ file('nests').eachFile {
 
 	publishing {
 		publications {
-			create("${mcVer.replace(" ", "")}_mavenJava", MavenPublication) {
-				groupId 'net.ornithemc'
-				artifactId "nests"
-				version "${mcVer}-${build_number}"
+			create("${mcVersion.replace(" ", "")}_mavenJava", MavenPublication) {
+				groupId maven_group
+				artifactId artifact_id
+				version nextVersion
 				artifact(makeJar.archiveFile) {
 					builtBy makeJar
 				}
@@ -43,9 +109,9 @@ file('nests').eachFile {
 
 publishing {
 	repositories {
-		if (ENV.MAVEN_URL) {
+		if (maven_url) {
 			maven {
-				url ENV.MAVEN_URL
+				url maven_url
 				credentials {
 					username ENV.MAVEN_USERNAME
 					password ENV.MAVEN_PASSWORD
