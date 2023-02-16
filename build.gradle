@@ -27,10 +27,9 @@ if (maven_url) {
 		def xml = new URL("${maven_url}/${maven_group_for_url}/${artifact_id}/maven-metadata.xml").text
 		def metadata = new XmlSlurper().parseText(xml)
 		metadata.versioning.versions.version.each {
-			String rawVersion = it.text()
-			int i = rawVersion.lastIndexOf('-')
-			String mcVersion = rawVersion.substring(0, i)
-			int build = Integer.parseInt(rawVersion.substring(i + 1))
+			String[] version = it.text().split(Pattern.quote("+build."))
+			String mcVersion = version[0]
+			int build = Integer.parseInt(version[1])
 			publishedVersions.compute(mcVersion, (key, value) -> value == null || build > value ? build : value)
 		}
 	} catch (FileNotFoundException ignored) {
