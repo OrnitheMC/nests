@@ -1,0 +1,80 @@
+ae	id			ae	9
+ai	un	<clinit>	()V	1	8
+ak	un	<clinit>	()V	2	8
+aw	ir			aw	1
+bi	jz			bi	9
+bl	vj	<clinit>	()V	1	8
+bm	vj	<clinit>	()V	2	8
+bo	vj	<clinit>	()V	3	8
+bs	gk			bs	16409
+cg	dt			cg	0
+ck	hg			ck	0
+cr	un			cr	9
+cu	gq			cu	16409
+dc	fq			dc	0
+ee	fm			ee	9
+et	id			et	9
+fo	kr			1	4104
+fw	bz			fw	8
+fy	dt			fy	0
+gd	cg	<init>	(Ldt;)V	1	0
+gu	ke			1	4104
+hr	kr			hr	16409
+hw	qf			hw	0
+hz	hg			1	4104
+in	qq			in	16409
+is	dt			is	1024
+jd	ux			jd	16409
+kb	jw	b	([Ljava/lang/Object;)Ljp;	1	8
+kc	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+kd	net/minecraft/client/Minecraft	a	()V	2	0
+kf	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+kg	jw	a	([Ljava/lang/Object;)Ljp;	2	8
+kj	net/minecraft/client/Minecraft			4	4105
+kl	net/minecraft/client/Minecraft	B	()V	5	1
+km	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	6	9
+ku	hi	<init>	()V	1	0
+kv	ej			1	4104
+lw	ty			lw	9
+mb	rl			mb	0
+mu	lp	f	()V	1	0
+mw	lp	d	()V	2	0
+my	lp	a	(Ljava/lang/String;)V	3	0
+nl	il			nl	0
+nr	ke			nr	0
+ou	ss	a	()Lqa;	1	0
+p	net/minecraft/client/MinecraftApplet	init	()V	1	0
+pn	fy	<init>	(Ldt;)V	1	0
+pr	z	<init>	(Liu;Z)V	1	0
+pv	uc			pv	9
+q	net/minecraft/client/MinecraftApplet	init	()V	2	0
+qb	jw	c	([Ljava/lang/Object;)Ljp;	3	8
+qc	jw	a	(I)Ljp;	4	8
+qe	jw	a	(Lpw;)Ljp;	5	8
+rn	hg			rn	0
+ro	bt			ro	16409
+rw	uc			rw	9
+sd	ir			sd	1
+sp	dt			sp	0
+sq	uc			sq	9
+te	ei	<init>	(Ljava/lang/String;Lnb;)V	1	0
+th	mi			th	0
+tp	bc			1	4104
+ts	bc	b	()V	2	0
+tt	sz	c	()Lkx;	1	8
+tv	sz	b	()Lkx;	2	8
+tx	sz	a	()Lkx;	3	8
+uz	id			uz	9
+vb	ch	a	(Ljava/util/Map;)V	1	0
+vc	ch	a	()V	2	0
+vg	oy			vg	1
+wd	jt			wd	8
+wm	bz			wm	8
+wq	vp	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
+wx	pb	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
+wy	pb	c	()V	2	0
+x	oa	a	(Ljava/lang/Iterable;)Ljava/util/List;	1	8
+xa	pb	<init>	(Ljava/net/Socket;Ljava/lang/String;Ltd;)V	3	0
+xc	pb	<init>	(Ljava/net/Socket;Ljava/lang/String;Ltd;)V	4	0
+xl	cz			xl	8
+yk	ej			yk	24
