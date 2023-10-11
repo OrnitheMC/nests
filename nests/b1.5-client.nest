@@ -1,0 +1,75 @@
+ad	hr			ad	9
+ag	to	<clinit>	()V	1	8
+ai	to	<clinit>	()V	2	8
+bd	jj			bd	9
+bg	uk	<clinit>	()V	1	8
+bh	uk	<clinit>	()V	2	8
+bj	uk	<clinit>	()V	3	8
+bn	gb			bn	16409
+cb	dn			cb	0
+ce	gw			ce	0
+cl	to			cl	9
+co	gh			co	16409
+cw	fi			cw	0
+el	hr			el	9
+ff	jz			1	4104
+fn	bu			fn	8
+fp	dn			fp	0
+fu	cb	<init>	(Ldn;)V	1	0
+gl	jo			1	4104
+hg	jz			hg	16409
+hk	pk			hk	0
+hn	gw			1	4104
+ib	pv			ib	16409
+if	dn			if	1024
+in	ty			in	16409
+jl	jg	b	([Ljava/lang/Object;)Liz;	1	8
+jm	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+jn	net/minecraft/client/Minecraft	a	()V	2	0
+jp	net/minecraft/client/Minecraft			3	4105
+jq	jg	a	([Ljava/lang/Object;)Liz;	2	8
+ju	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	4	9
+jv	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	5	9
+kc	gy	<init>	()V	1	0
+kd	eb			1	4104
+le	sz			le	9
+lj	qp			lj	0
+mc	kx	f	()V	1	0
+md	kx	d	()V	2	0
+mf	kx	a	(Ljava/lang/String;)V	3	0
+mt	hz			mt	0
+mz	jo			mz	0
+nz	rt	a	()Lpf;	1	0
+os	fp	<init>	(Ldn;)V	1	0
+ow	y	<init>	(Lih;Z)V	1	0
+p	net/minecraft/client/MinecraftApplet	init	()V	1	0
+pa	td			pa	9
+pg	jg	c	([Ljava/lang/Object;)Liz;	3	8
+ph	jg	a	(I)Liz;	4	8
+pj	jg	a	(Lpb;)Liz;	5	8
+q	net/minecraft/client/MinecraftApplet	init	()V	2	0
+qr	gw			qr	0
+qs	bo			qs	16409
+qy	td			qy	9
+rq	dn			rq	0
+rr	td			rr	9
+sf	ea	<init>	(Ljava/lang/String;Lmj;)V	1	0
+si	lq			si	0
+sq	ax			1	4104
+st	ax	b	()V	2	0
+su	sa	c	()Lkf;	1	8
+sw	sa	b	()Lkf;	2	8
+sy	sa	a	()Lkf;	3	8
+ua	hr			ua	9
+uc	cd	a	(Ljava/util/Map;)V	1	0
+ud	cd	a	()V	2	0
+uh	od			uh	1
+ve	jd			ve	8
+vm	bu			vm	8
+vq	uq	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
+vx	og	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
+vz	og	<init>	(Ljava/net/Socket;Ljava/lang/String;Lse;)V	2	0
+w	ni	a	(Ljava/lang/Iterable;)Ljava/util/List;	1	8
+wb	og	<init>	(Ljava/net/Socket;Ljava/lang/String;Lse;)V	3	0
+wk	ct			wk	8
+xj	eb			xj	24
