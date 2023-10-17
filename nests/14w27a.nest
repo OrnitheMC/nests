@@ -536,6 +536,7 @@ cdn	cdl			cdn	9
 cdp	cdo	b	(F)V	1	0
 cdq	cdo	b	(F)V	2	0
 cdr	cdo	b	(F)V	3	0
+cdt	cds			1	4104
 cdu	cds			cdu	8
 cdv	cds			cdv	8
 cdw	cds			cdw	8

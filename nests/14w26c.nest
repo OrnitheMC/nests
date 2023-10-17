@@ -532,6 +532,7 @@ cct	ccr			cct	9
 ccv	ccu	b	(F)V	1	0
 ccw	ccu	b	(F)V	2	0
 ccx	ccu	b	(F)V	3	0
+ccz	ccy			1	4104
 cda	ccy			cda	8
 cdb	ccy			cdb	8
 cdc	ccy			cdc	8
