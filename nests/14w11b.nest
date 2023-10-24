@@ -382,13 +382,16 @@ bvc	buz			bvc	0
 bvd	buz			bvd	16408
 bvf	bve			1	4104
 bvh	bvg			1	4104
+bvn	bvm			bvn	9
 bvr	bvq			bvr	9
 bvs	bvq			bvs	9
 bvu	bvt			1	4104
+bvw	bvv			bvw	9
 bvx	bvw			1	4104
 bwc	bwb			1	4104
 bwd	bwb			bwd	16409
 bwe	bwd			bwe	9
+bwg	bwf			bwg	9
 bws	bwr			1	4104
 bxw	bxv	<init>	(Lbxo;Lbpd;FF)V	1	0
 byb	bya	b	(Lbgw;Lcbl;Lagh;II)V	1	0

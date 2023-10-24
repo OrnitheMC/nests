@@ -525,13 +525,16 @@ cbz	cbx			2	4104
 cca	cbx			cca	0
 ccb	cbx			ccb	16408
 ccd	ccc			1	4104
+ccf	cce			ccf	9
 ccj	cci			ccj	9
 cck	cci			cck	9
 ccm	ccl			1	4104
+cco	ccn			cco	9
 ccp	cco			1	4104
 ccu	cct			1	4104
 ccv	cct			ccv	16409
 ccw	ccv			ccw	9
+ccy	ccx			ccy	9
 cdk	cdj			1	4104
 ceo	cen	<init>	(Lceg;Lbue;FF)V	1	0
 cet	ces	b	(Lbkq;Lcig;Lahd;II)V	1	0

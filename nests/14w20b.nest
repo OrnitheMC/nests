@@ -526,13 +526,16 @@ cce	ccc			2	4104
 ccf	ccc			ccf	0
 ccg	ccc			ccg	16408
 cci	cch			1	4104
+cck	ccj			cck	9
 cco	ccn			cco	9
 ccp	ccn			ccp	9
 ccr	ccq			1	4104
+cct	ccs			cct	9
 ccu	cct			1	4104
 ccz	ccy			1	4104
 cda	ccy			cda	16409
 cdb	cda			cdb	9
+cdd	cdc			cdd	9
 cdp	cdo			1	4104
 cet	ces	<init>	(Lcel;Lbuj;FF)V	1	0
 cey	cex	b	(Lbku;Lcil;Lahh;II)V	1	0

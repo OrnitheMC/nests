@@ -473,14 +473,17 @@ bzg	bze			2	4104
 bzh	bze			bzh	0
 bzi	bze			bzi	16408
 bzk	bzj			1	4104
+bzm	bzl			bzm	9
 bzq	bzp			bzq	9
 bzr	bzp			bzr	9
 bzt	bzs			1	4104
+bzv	bzu			bzv	9
 bzw	bzv			1	4104
 c	b	h	()V	1	0
 cab	caa			1	4104
 cac	caa			cac	16409
 cad	cac			cad	9
+caf	cae			caf	9
 car	caq			1	4104
 cbv	cbu	<init>	(Lcbn;Lbtd;FF)V	1	0
 cca	cbz	b	(Lbkf;Lcfn;Lagy;II)V	1	0

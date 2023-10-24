@@ -526,13 +526,16 @@ cch	ccf			2	4104
 cci	ccf			cci	0
 ccj	ccf			ccj	16408
 ccl	cck			1	4104
+ccn	ccm			ccn	9
 ccr	ccq			ccr	9
 ccs	ccq			ccs	9
 ccu	cct			1	4104
+ccw	ccv			ccw	9
 ccx	ccw			1	4104
 cdc	cdb			1	4104
 cdd	cdb			cdd	16409
 cde	cdd			cde	9
+cdg	cdf			cdg	9
 cds	cdr			1	4104
 cew	cev	<init>	(Lceo;Lbum;FF)V	1	0
 cfb	cfa	b	(Lbkx;Lcio;Lahk;II)V	1	0

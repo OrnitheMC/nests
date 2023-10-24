@@ -358,12 +358,15 @@ bua	bty			bua	0
 bub	bty			bub	16408
 bud	buc			1	4104
 buf	bue			1	4104
+buk	buj			buk	9
 buo	bun			buo	9
 bup	bun			bup	9
+bus	bur			bus	9
 but	bus			1	4104
 bux	buw			1	4104
 buy	buw			buy	16409
 buz	buy			buz	9
+bvb	bva			bvb	9
 bvn	bvm			1	4104
 bwq	bwp	<init>	(Lbwi;Lboa;FF)V	1	0
 bwv	bwu	b	(Lbft;Lcaf;Lafy;II)V	1	0

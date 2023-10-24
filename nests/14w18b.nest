@@ -474,14 +474,17 @@ bzm	bzk			2	4104
 bzn	bzk			bzn	0
 bzo	bzk			bzo	16408
 bzq	bzp			1	4104
+bzs	bzr			bzs	9
 bzw	bzv			bzw	9
 bzx	bzv			bzx	9
 bzz	bzy			1	4104
 c	b	h	()V	1	0
+cab	caa			cab	9
 cac	cab			1	4104
 cah	cag			1	4104
 cai	cag			cai	16409
 caj	cai			caj	9
+cal	cak			cal	9
 cax	caw			1	4104
 ccb	cca	<init>	(Lcbt;Lbti;FF)V	1	0
 ccg	ccf	b	(Lbkk;Lcft;Lagy;II)V	1	0

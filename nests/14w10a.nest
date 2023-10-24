@@ -358,12 +358,15 @@ btz	btx			btz	0
 bua	btx			bua	16408
 buc	bub			1	4104
 bue	bud			1	4104
+buj	bui			buj	9
 bun	bum			bun	9
 buo	bum			buo	9
+bur	buq			bur	9
 bus	bur			1	4104
 buw	buv			1	4104
 bux	buv			bux	16409
 buy	bux			buy	9
+bva	buz			bva	9
 bvm	bvl			1	4104
 bwp	bwo	<init>	(Lbwh;Lbnz;FF)V	1	0
 bwu	bwt	b	(Lbfs;Lcae;Lafx;II)V	1	0
