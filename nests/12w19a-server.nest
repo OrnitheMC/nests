@@ -32,13 +32,13 @@ bi	adb	<clinit>	()V	3	8
 bm	aew			bm	1
 by	mq			by	9
 c	afb	<init>	()V	1	0
-ca	net/minecraft/server/MinecraftServer	a	(Lis;)Lis;	1	1
+ca	net/minecraft/server/MinecraftServer	a	(Lis;)Lis;	5	1
 cb	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
-cc	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;JLrs;)V	3	1
+cc	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;JLrs;)V	4	1
 cd	ou			cd	1033
-ce	net/minecraft/server/MinecraftServer	B	()Z	4	1
+ce	net/minecraft/server/MinecraftServer	B	()Z	3	1
 cf	nm			cf	16409
-cg	net/minecraft/server/MinecraftServer	<init>	(Ljava/io/File;)V	5	1
+cg	net/minecraft/server/MinecraftServer	<init>	(Ljava/io/File;)V	1	1
 ch	um			ch	16409
 ck	ou			ck	9
 ct	hh			ct	9

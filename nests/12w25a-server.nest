@@ -54,11 +54,11 @@ bs	afb	<clinit>	()V	2	8
 bv	afb	<clinit>	()V	3	8
 bz	agx			bz	1
 cl	nv			cl	9
-cn	net/minecraft/server/MinecraftServer	b	(Ljp;)Ljp;	1	1
+cn	net/minecraft/server/MinecraftServer	b	(Ljp;)Ljp;	3	1
 co	qb			co	1033
 cp	net/minecraft/server/MinecraftServer	q	()V	2	1
 cq	or			cq	16409
-cr	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	3	1
+cr	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	1	1
 cs	wc			cs	16409
 cu	afn			cu	9
 cw	qb			cw	9

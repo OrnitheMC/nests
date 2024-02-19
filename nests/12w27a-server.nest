@@ -57,14 +57,14 @@ bs	afm	<clinit>	()V	2	8
 bv	afm	<clinit>	()V	3	8
 bz	ahi			bz	1
 cl	ob			cl	9
-cn	net/minecraft/server/MinecraftServer	b	(Ljv;)Ljv;	1	1
-co	net/minecraft/server/MinecraftServer	b	(Ljv;)Ljv;	2	1
-cp	net/minecraft/server/MinecraftServer	b	(Ljv;)Ljv;	3	0
-cr	net/minecraft/server/MinecraftServer	q	()V	4	1
+cn	net/minecraft/server/MinecraftServer	b	(Ljv;)Ljv;	6	1
+co	net/minecraft/server/MinecraftServer	b	(Ljv;)Ljv;	5	1
+cp	net/minecraft/server/MinecraftServer	b	(Ljv;)Ljv;	4	0
+cr	net/minecraft/server/MinecraftServer	q	()V	3	1
 cs	qi			cs	1033
-ct	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	5	9
+ct	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
 cu	ox			cu	16409
-cv	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	6	1
+cv	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	1	1
 cw	wk			cw	16409
 cy	afy			cy	9
 d	aho	<init>	()V	1	0

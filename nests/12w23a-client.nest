@@ -92,8 +92,8 @@ atx	lw			atx	9
 aui	xk			aui	0
 auk	fh			auk	24
 aum	wr			aum	9
-av	tu	d	()Ljavax/swing/JComponent;	1	0
-ax	tu	d	()Ljavax/swing/JComponent;	2	0
+av	tu	d	()Ljavax/swing/JComponent;	2	0
+ax	tu	d	()Ljavax/swing/JComponent;	3	0
 bb	iq			bb	9
 be	aow	<clinit>	()V	7	8
 bf	th	<clinit>	()V	1	8

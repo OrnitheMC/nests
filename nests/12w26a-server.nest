@@ -55,12 +55,12 @@ bs	aff	<clinit>	()V	2	8
 bv	aff	<clinit>	()V	3	8
 bz	ahb			bz	1
 cl	ny			cl	9
-cn	net/minecraft/server/MinecraftServer	b	(Ljs;)Ljs;	1	1
-cp	net/minecraft/server/MinecraftServer	b	(Ljs;)Ljs;	2	0
+cn	net/minecraft/server/MinecraftServer	b	(Ljs;)Ljs;	4	1
+cp	net/minecraft/server/MinecraftServer	b	(Ljs;)Ljs;	3	0
 cq	qf			cq	1033
-cr	net/minecraft/server/MinecraftServer	q	()V	3	1
+cr	net/minecraft/server/MinecraftServer	q	()V	2	1
 cs	ou			cs	16409
-ct	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	4	1
+ct	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	1	1
 cu	wg			cu	16409
 cw	afr			cw	9
 cy	qf			cy	9

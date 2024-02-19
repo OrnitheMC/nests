@@ -217,7 +217,7 @@ net/minecraft/client/v	net/minecraft/client/MinecraftApplet	init	()V	1	0
 net/minecraft/client/w	net/minecraft/client/MinecraftApplet	init	()V	2	0
 net/minecraft/server/f	net/minecraft/server/e			f	0
 net/minecraft/server/g	net/minecraft/server/MinecraftServer	c	(Ljava/lang/String;)V	1	1
-net/minecraft/server/i	net/minecraft/server/MinecraftServer	s	()V	2	1
-net/minecraft/server/j	net/minecraft/server/MinecraftServer	b	(La;)La;	3	0
-net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	4	1
-net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
+net/minecraft/server/i	net/minecraft/server/MinecraftServer	s	()V	3	1
+net/minecraft/server/j	net/minecraft/server/MinecraftServer	b	(La;)La;	4	0
+net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
+net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	6	1

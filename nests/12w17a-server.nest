@@ -26,13 +26,13 @@ bd	abz	<clinit>	()V	2	8
 bg	abz	<clinit>	()V	3	8
 bk	adv			bk	1
 bv	ma			bv	9
-bx	net/minecraft/server/MinecraftServer	a	(Lii;)Lii;	1	1
+bx	net/minecraft/server/MinecraftServer	a	(Lii;)Lii;	5	1
 by	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
 bz	od			bz	1033
-ca	net/minecraft/server/MinecraftServer	a	(Lhs;Ljava/lang/String;JLqw;)V	3	1
+ca	net/minecraft/server/MinecraftServer	a	(Lhs;Ljava/lang/String;JLqw;)V	4	1
 cb	mv			cb	16409
-cc	net/minecraft/server/MinecraftServer	u	()Z	4	1
-cd	net/minecraft/server/MinecraftServer	<init>	()V	5	1
+cc	net/minecraft/server/MinecraftServer	u	()Z	3	1
+cd	net/minecraft/server/MinecraftServer	<init>	()V	1	1
 ce	tm			ce	16409
 ch	od			ch	9
 co	gx			co	9

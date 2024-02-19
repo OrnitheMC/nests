@@ -108,10 +108,10 @@ db	en			db	0
 dc	up	d	(IIIILakw;)V	1	0
 dg	ts			dg	9
 dj	wq			dj	1033
-dk	pm	b	(Lnw;)Lnw;	1	1
+dk	pm	b	(Lnw;)Lnw;	3	1
 dl	pm	r	()V	2	1
 dm	uw			dm	16409
-dn	pm	a	(Ljava/lang/String;)V	3	1
+dn	pm	a	(Ljava/lang/String;)V	1	1
 dp	afa			dp	16409
 dt	asg			dt	9
 dv	gk			dv	0

@@ -111,13 +111,13 @@ cq	aus			cq	1
 db	er			db	0
 dc	uz	d	(IIIILalk;)V	1	0
 dg	uc			dg	9
-di	pw	b	(Log;)Log;	1	1
-dk	pw	b	(Log;)Log;	2	1
-dm	pw	b	(Log;)Log;	3	0
+di	pw	b	(Log;)Log;	6	1
+dk	pw	b	(Log;)Log;	5	1
+dm	pw	b	(Log;)Log;	4	0
 dn	xb			dn	1033
-do	pw	r	()V	4	1
+do	pw	r	()V	3	1
 dp	vg			dp	16409
-dq	pw	a	(Ljava/lang/String;)V	5	1
+dq	pw	a	(Ljava/lang/String;)V	1	1
 ds	afm			ds	16409
 dw	asv			dw	9
 dy	go			dy	0

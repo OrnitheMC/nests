@@ -58,7 +58,7 @@ ank	cg	<clinit>	()V	1	8
 anl	cg	<clinit>	()V	2	8
 anw	agr			anw	8
 any	alf	a	()V	1	0
-ao	tc	d	()Ljavax/swing/JComponent;	1	0
+ao	tc	d	()Ljavax/swing/JComponent;	2	0
 aob	li			aob	8
 aom	atx			aom	9
 aoq	ev	<init>	(Ljava/lang/String;Lmf;)V	1	0
@@ -69,7 +69,7 @@ apd	aoj	b	()Lahr;	2	8
 ape	aoj	a	()Lahr;	3	8
 apk	te			apk	1
 aps	alc	a	(Ljava/io/File;Ljava/lang/String;Luf;Ljava/util/Map;ILvv;)V	1	8
-aq	tc	d	()Ljavax/swing/JComponent;	2	0
+aq	tc	d	()Ljavax/swing/JComponent;	3	0
 aqc	qp			1	4104
 aqi	agr			aqi	8
 aqn	acv			aqn	8

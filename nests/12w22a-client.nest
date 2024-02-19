@@ -92,8 +92,8 @@ atv	lw			atv	9
 aug	xi			aug	0
 aui	fh			aui	24
 auk	wp			auk	9
-av	ts	d	()Ljavax/swing/JComponent;	1	0
-ax	ts	d	()Ljavax/swing/JComponent;	2	0
+av	ts	d	()Ljavax/swing/JComponent;	2	0
+ax	ts	d	()Ljavax/swing/JComponent;	3	0
 bb	iq			bb	9
 be	aou	<clinit>	()V	7	8
 bf	tg	<clinit>	()V	1	8
