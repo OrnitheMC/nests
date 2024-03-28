@@ -1,0 +1,37 @@
+bk	og			bk	9
+cw	fk			cw	9
+dn	hb			1	4104
+dv	ax			dv	8
+fc	hb			fc	16409
+fu	lg			fu	16409
+gt	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+gu	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
+gy	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+gz	net/minecraft/client/Minecraft			4	4105
+hd	eu	<init>	()V	1	0
+i	net/minecraft/client/MinecraftApplet	init	()V	1	0
+j	net/minecraft/client/MinecraftApplet	init	()V	2	0
+jb	fs			jb	0
+kq	r	<init>	(Lfy;Z)V	1	0
+kt	nw			kt	9
+lx	as			lx	16409
+mc	nw			mc	9
+mi	dp			mi	0
+mu	nw			mu	9
+nh	cq	<init>	(Ljava/lang/String;Lis;)V	1	0
+nj	ig			nj	0
+no	ai	b	()V	1	0
+np	ai	b	(Ljava/lang/String;)V	2	0
+ns	ai			3	4104
+op	fk			op	9
+os	kc			os	1
+ph	go			ph	8
+pm	ax			pm	8
+po	ow	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
+pu	kf	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
+pv	kf	<init>	(Ljava/net/Socket;Ljava/lang/String;Lnf;)V	2	0
+px	kf	<init>	(Ljava/net/Socket;Ljava/lang/String;Lnf;)V	3	0
+qd	bq			qd	8
+u	fk			u	9
+x	og	<clinit>	()V	1	8
+z	og	<clinit>	()V	2	8
