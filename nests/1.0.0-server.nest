@@ -110,7 +110,7 @@ vi	ko	<init>	(Ljava/net/Socket;Ljava/lang/String;Lhs;)V	3	0
 vj	bn			vj	0
 vn	lp	a	(Lnet/minecraft/server/MinecraftServer;)V	2	8
 vr	jc	<init>	(Lah;Z)V	1	0
-wa	ko	d	()V	4	0
+wa	ko	d	()V	2	0
 wk	la			wk	9
 wn	bq			wn	8
 wr	i			wr	9
