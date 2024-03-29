@@ -87,7 +87,7 @@ lc	es	f	()V	2	0
 ld	rp			ld	9
 lf	ku			lf	8
 lh	tz	c	()Lrv;	2	8
-li	ahk	<init>	(Lx;Lry;III)V	1	0
+li	ahk	<init>	(Lx;Lry;III)V	2	0
 lp	ki			lp	16409
 lu	rp			lu	9
 mc	rd			mc	9
@@ -127,7 +127,7 @@ uf	jq	a	()V	2	0
 ui	rp			ui	9
 uk	aez			uk	9
 ul	hk			ul	9
-ur	ahk	<init>	(Lx;Lry;III)V	2	0
+ur	ahk	<init>	(Lx;Lry;III)V	1	0
 ux	rx			1	4104
 uy	xy			uy	9
 uz	xy			uz	9
