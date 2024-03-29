@@ -72,8 +72,8 @@ wd	jt			wd	8
 wm	bz			wm	8
 wq	vp	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 wx	pb	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
-wz	pb	<init>	(Ljava/net/Socket;Ljava/lang/String;Ltd;)V	2	0
+wz	pb	<init>	(Ljava/net/Socket;Ljava/lang/String;Ltd;)V	3	0
 x	oa	a	(Ljava/lang/Iterable;)Ljava/util/List;	1	8
-xb	pb	<init>	(Ljava/net/Socket;Ljava/lang/String;Ltd;)V	3	0
+xb	pb	<init>	(Ljava/net/Socket;Ljava/lang/String;Ltd;)V	4	0
 xk	cz			xk	8
 yj	ej			yj	24
