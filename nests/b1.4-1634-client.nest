@@ -42,7 +42,7 @@ sk	ib			sk	8
 st	bj			st	8
 sx	ry	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 td	mj	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
-tf	mj	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpt;)V	2	0
-th	mj	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpt;)V	3	0
+tf	mj	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpt;)V	3	0
+th	mj	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpt;)V	4	0
 tp	cg			tp	8
 y	gs			y	9

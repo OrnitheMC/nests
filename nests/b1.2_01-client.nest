@@ -34,7 +34,7 @@ qn	hc			qn	8
 qu	be			qu	8
 qw	qc	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 rc	kx	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
-rd	kx	<init>	(Ljava/net/Socket;Ljava/lang/String;Lod;)V	2	0
-rf	kx	<init>	(Ljava/net/Socket;Ljava/lang/String;Lod;)V	3	0
+rd	kx	<init>	(Ljava/net/Socket;Ljava/lang/String;Lod;)V	3	0
+rf	kx	<init>	(Ljava/net/Socket;Ljava/lang/String;Lod;)V	4	0
 rn	bx			rn	8
 x	fw			x	9

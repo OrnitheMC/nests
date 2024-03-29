@@ -41,7 +41,7 @@ rq	hr			rq	8
 rz	bf			rz	8
 sc	rf	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 si	lt	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
-sj	lt	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpe;)V	2	0
-sl	lt	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpe;)V	3	0
+sj	lt	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpe;)V	3	0
+sl	lt	<init>	(Ljava/net/Socket;Ljava/lang/String;Lpe;)V	4	0
 st	ca			st	8
 x	gj			x	9

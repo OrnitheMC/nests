@@ -29,8 +29,8 @@ pg	gn			pg	8
 pl	ax			pl	8
 pn	ov	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 pt	ke	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
-pu	ke	<init>	(Ljava/net/Socket;Ljava/lang/String;Lne;)V	2	0
-pw	ke	<init>	(Ljava/net/Socket;Ljava/lang/String;Lne;)V	3	0
+pu	ke	<init>	(Ljava/net/Socket;Ljava/lang/String;Lne;)V	3	0
+pw	ke	<init>	(Ljava/net/Socket;Ljava/lang/String;Lne;)V	4	0
 qc	bq			qc	8
 u	fj			u	9
 x	of	<clinit>	()V	1	8

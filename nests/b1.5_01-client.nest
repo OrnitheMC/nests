@@ -68,8 +68,8 @@ ve	jd			ve	8
 vm	bu			vm	8
 vq	uq	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 vx	og	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
-vz	og	<init>	(Ljava/net/Socket;Ljava/lang/String;Lse;)V	2	0
+vz	og	<init>	(Ljava/net/Socket;Ljava/lang/String;Lse;)V	3	0
 w	ni	a	(Ljava/lang/Iterable;)Ljava/util/List;	1	8
-wb	og	<init>	(Ljava/net/Socket;Ljava/lang/String;Lse;)V	3	0
+wb	og	<init>	(Ljava/net/Socket;Ljava/lang/String;Lse;)V	4	0
 wk	ct			wk	8
 xj	eb			xj	24
