@@ -28,7 +28,7 @@ agf	ma			agf	0
 agj	adg			agj	0
 agr	xy			agr	9
 agt	hz	<init>	(Lin;)V	1	0
-agv	hc	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfe;)V	4	0
+agv	hc	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfe;)V	2	0
 agz	ek	c	([Ljava/lang/Object;)Ldx;	4	8
 ahc	wv			ahc	8
 ahg	as			ahg	0
