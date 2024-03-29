@@ -66,7 +66,7 @@ mp	uw			1	4104
 mq	i			mq	8
 mr	si			mr	9
 n	yi	a	(Lbb;)V	1	0
-na	bq	<clinit>	()V	2	8
+na	bq	<clinit>	()V	1	8
 nf	if			nf	9
 nl	wj	<clinit>	()V	2	8
 nw	sz			nw	9

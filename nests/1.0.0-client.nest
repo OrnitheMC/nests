@@ -71,7 +71,7 @@ id	aez			id	9
 io	rp			io	9
 ir	tc			ir	9
 iz	tc	<clinit>	()V	2	8
-jg	px	<clinit>	()V	1	8
+jg	px	<clinit>	()V	2	8
 ji	ek	a	([Ljava/lang/Object;)Ldx;	2	8
 jo	xi			jo	0
 jr	ek	a	(Loj;)Ldx;	3	8
@@ -119,7 +119,7 @@ td	wp			td	8
 te	adg			1	4104
 tf	xy			tf	9
 tg	ed			tg	8
-th	tc	<clinit>	()V	2	8
+th	tc	<clinit>	()V	1	8
 tl	es	d	()V	3	0
 tr	rp			tr	9
 tx	p	<clinit>	()V	1	8
