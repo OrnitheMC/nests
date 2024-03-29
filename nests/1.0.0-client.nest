@@ -70,8 +70,8 @@ i	px	<clinit>	()V	1	8
 id	aez			id	9
 io	rp			io	9
 ir	tc			ir	9
-iz	tc	<clinit>	()V	1	8
-jg	px	<clinit>	()V	2	8
+iz	tc	<clinit>	()V	2	8
+jg	px	<clinit>	()V	1	8
 ji	ek	a	([Ljava/lang/Object;)Ldx;	2	8
 jo	xi			jo	0
 jr	ek	a	(Loj;)Ldx;	3	8
