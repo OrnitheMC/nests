@@ -99,7 +99,7 @@ nu	acy			nu	16409
 nv	abq	a	()Lwz;	1	0
 os	tc			os	1032
 ox	nk			ox	1033
-pa	hc	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfe;)V	1	0
+pa	hc	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfe;)V	3	0
 pb	xz			pb	0
 pi	gd	<init>	(Lx;Z)V	1	0
 pn	ri	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
