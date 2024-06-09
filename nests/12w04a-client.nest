@@ -81,9 +81,10 @@ gi	lz			gi	16409
 gk	cy			gk	1024
 hc	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 hd	net/minecraft/client/Minecraft	a	()V	2	0
-hg	net/minecraft/client/Minecraft			3	4105
-hi	net/minecraft/client/Minecraft	z	()V	4	1
-hj	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	5	9
+he	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+hg	net/minecraft/client/Minecraft			4	4105
+hi	net/minecraft/client/Minecraft	z	()V	5	1
+hj	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	6	9
 hk	zk			hk	9
 hq	fn	<init>	()V	1	0
 hs	im			hs	9

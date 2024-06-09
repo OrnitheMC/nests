@@ -69,9 +69,10 @@ fn	kv			fn	16409
 fq	cm			fq	1024
 gh	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 gi	net/minecraft/client/Minecraft	a	()V	2	0
-gl	net/minecraft/client/Minecraft			3	4105
-gn	net/minecraft/client/Minecraft	z	()V	4	1
-go	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	5	9
+gj	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+gl	net/minecraft/client/Minecraft			4	4105
+gn	net/minecraft/client/Minecraft	z	()V	5	1
+go	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	6	9
 gu	eu	<init>	()V	1	0
 gw	hn			gw	9
 gx	fp			gx	9

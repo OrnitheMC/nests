@@ -35,7 +35,7 @@ ahg	as			ahg	0
 ahj	ek	b	([Ljava/lang/Object;)Ldx;	5	8
 aht	hk			aht	9
 ahw	rp			ahw	9
-ahy	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	5	9
+ahy	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	6	9
 ahz	xy			ahz	9
 aia	xy			aia	9
 aiq	afr			aiq	1
@@ -64,7 +64,7 @@ gp	tc			gp	9
 gs	xy			gs	9
 hg	rp			hg	9
 hq	tc			hq	9
-hr	net/minecraft/client/Minecraft	z	()V	1	1
+hr	net/minecraft/client/Minecraft	z	()V	5	1
 hz	in			hz	0
 i	px	<clinit>	()V	1	8
 id	aez			id	9
@@ -106,13 +106,14 @@ pn	ri	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 po	hc	c	()V	2	0
 qa	tc			qa	8
 qb	net/minecraft/client/Minecraft	a	()V	2	0
-qr	net/minecraft/client/Minecraft			3	4105
+qr	net/minecraft/client/Minecraft			4	4105
 qt	ml			1	4104
 qy	vi			qy	16409
 ra	aez			ra	9
 rh	rp			rh	1032
 rm	adg			rm	0
 sa	kl			sa	1
+sj	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
 so	tc			so	9
 sv	tj			sv	16409
 td	wp			td	8
@@ -145,7 +146,7 @@ xr	rp			xr	9
 y	rd			y	9
 yb	jo	a	(IIIILcv;)V	1	0
 yj	rp			yj	9
-yk	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	4	0
+yk	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 yo	xn			yo	8
 yp	xy			yp	9
 ys	tc			ys	9

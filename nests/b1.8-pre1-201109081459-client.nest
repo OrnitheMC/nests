@@ -46,9 +46,10 @@ ex	ce			ex	1024
 f	nz			f	9
 fl	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 fm	net/minecraft/client/Minecraft	a	()V	2	0
-fp	net/minecraft/client/Minecraft			3	4105
-fr	net/minecraft/client/Minecraft	A	()V	4	1
-fs	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	5	9
+fn	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+fp	net/minecraft/client/Minecraft			4	4105
+fr	net/minecraft/client/Minecraft	A	()V	5	1
+fs	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	6	9
 fy	ef	<init>	()V	1	0
 fz	ew			fz	9
 ga	cn			1	4104

@@ -76,9 +76,10 @@ fy	cr			fy	1024
 g	ql			g	9
 go	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 gp	net/minecraft/client/Minecraft	a	()V	2	0
-gs	net/minecraft/client/Minecraft			3	4105
-gu	net/minecraft/client/Minecraft	z	()V	4	1
-gv	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	5	9
+gq	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+gs	net/minecraft/client/Minecraft			4	4105
+gu	net/minecraft/client/Minecraft	z	()V	5	1
+gv	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	6	9
 hb	fc	<init>	()V	1	0
 hd	hx			hd	9
 he	fx			he	9

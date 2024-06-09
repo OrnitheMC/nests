@@ -117,12 +117,13 @@ ig	pv			ig	16409
 iv	ahm	a	(Lfk;)V	1	0
 jc	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 jd	net/minecraft/client/Minecraft	a	()V	2	0
-jg	net/minecraft/client/Minecraft	c	(Lmr;)Lmr;	3	0
-ji	net/minecraft/client/Minecraft	E	()V	4	1
-jk	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;Ljava/lang/String;)V	5	9
+je	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;Ljava/lang/String;)V	3	9
+jg	net/minecraft/client/Minecraft	c	(Lmr;)Lmr;	4	0
+ji	net/minecraft/client/Minecraft	E	()V	5	1
+jk	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;Ljava/lang/String;)V	6	9
 jl	aek			jl	9
-jn	net/minecraft/client/Minecraft			6	4104
-jo	net/minecraft/client/Minecraft	c	(Lmr;)Lmr;	7	0
+jn	net/minecraft/client/Minecraft			7	4104
+jo	net/minecraft/client/Minecraft	c	(Lmr;)Lmr;	8	0
 jt	gz	<init>	()V	1	0
 jw	ks			jw	9
 jx	ic			jx	9
