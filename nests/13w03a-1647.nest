@@ -221,6 +221,7 @@ g	a	h	()V	6	0
 ga	fq	a	()V	9	8
 gb	fq	a	()V	10	8
 gc	fq	a	()V	11	8
+gd	fq	a	()V	12	1
 gf	ge			gf	0
 gg	net/minecraft/server/MinecraftServer	b	(Ljava/lang/String;)V	1	1
 gh	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
