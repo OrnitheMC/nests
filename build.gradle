@@ -82,7 +82,7 @@ file("nests").eachFile {
 	def nextVersion = version(mcVersion, nextBuild)
 
 	def makeJar = task("${nextVersion}_makeJar", type: Jar) {
-		baseName "nests-${nextVersion}"
+		archiveFileName "nests-${nextVersion}.jar"
 		from(file(nests)) {
 			into "nests"
 			rename nests.name, "mappings.nest"
