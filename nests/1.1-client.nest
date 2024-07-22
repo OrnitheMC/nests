@@ -12,6 +12,7 @@ acc	ze			acc	9
 acs	rb			acs	9
 acu	rb			acu	9
 acw	ze			acw	9
+acz	net/minecraft/client/Minecraft			acz	16409
 ada	agn			1	4104
 adh	rb			adh	9
 adn	el	<init>	(Lcw;)V	1	0

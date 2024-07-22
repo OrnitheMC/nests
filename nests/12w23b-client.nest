@@ -48,6 +48,7 @@ alt	wr			alt	9
 alv	wr			alv	9
 alw	ahl			alw	9
 aly	ach			aly	0
+amd	net/minecraft/client/Minecraft			amd	16409
 amf	aqh			1	4104
 amj	wr			amj	9
 amq	gs	<init>	(Ler;)V	1	0

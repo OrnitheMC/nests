@@ -16,6 +16,7 @@ adt	rp			adt	9
 adv	rp			adv	9
 adx	aac			adx	9
 ae	gb			ae	9
+aeb	net/minecraft/client/Minecraft			aeb	16409
 aec	ahr			1	4104
 aej	rp			aej	9
 aep	eo	<init>	(Lcz;)V	1	0

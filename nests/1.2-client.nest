@@ -20,6 +20,7 @@ ael	fm	a	(Ljava/io/File;Ljava/util/ArrayList;)V	1	0
 aep	rv			aep	9
 aeq	rv			aeq	9
 aes	aaw			aes	9
+aev	net/minecraft/client/Minecraft			aev	16409
 aew	aim			1	4104
 af	gd			af	9
 afd	rv			afd	9

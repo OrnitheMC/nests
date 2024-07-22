@@ -44,6 +44,7 @@ al	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	1al	0
 ala	vy			ala	9
 alb	agr			alb	9
 ald	abn			ald	0
+ali	net/minecraft/client/Minecraft			ali	16409
 alk	apm			1	4104
 alp	vy			alp	9
 alw	gh	<init>	(Leg;)V	1	0

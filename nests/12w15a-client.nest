@@ -22,6 +22,7 @@ afb	fr	a	(Ljava/io/File;Ljava/util/Collection;)V	1	0
 aff	si			aff	9
 afg	si			afg	9
 afi	abm			afi	9
+afn	net/minecraft/client/Minecraft			afn	16409
 afp	ajg			1	4104
 afv	si			afv	9
 ag	gi			ag	9

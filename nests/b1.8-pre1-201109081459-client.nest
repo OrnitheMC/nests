@@ -116,6 +116,7 @@ xh	uv			xh	9
 xu	nz			xu	9
 xv	nz			xv	9
 xx	uv			xx	9
+ya	net/minecraft/client/Minecraft			ya	16409
 yg	nz			yg	9
 yn	dj	<init>	(Lce;)V	1	0
 yp	r	<init>	(Lui;Z)V	1	0

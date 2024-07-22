@@ -14,6 +14,7 @@ ack	zm			ack	9
 ada	rg			ada	9
 adc	rg			adc	9
 ade	zm			ade	9
+adi	net/minecraft/client/Minecraft			adi	16409
 adj	agx			1	4104
 adq	rg			adq	9
 adw	en	<init>	(Lcy;)V	1	0

@@ -16,6 +16,7 @@ hs	fg	<init>	()V	1	0
 io	ot			io	9
 jt	ge			jt	0
 k	net/minecraft/client/MinecraftApplet	init	()V	1	0
+kw	net/minecraft/client/Minecraft			kw	16409
 l	net/minecraft/client/MinecraftApplet	init	()V	2	0
 lj	t	<init>	(Lgl;Z)V	1	0
 ln	oy			ln	9

@@ -43,6 +43,7 @@ nc	lt	a	(Ljava/lang/String;)V	3	0
 np	io			np	0
 nv	ki			nv	0
 oy	sx	a	()Lqe;	1	0
+pd	net/minecraft/client/Minecraft			pd	16409
 pr	ga	<init>	(Ldv;)V	1	0
 pv	aa	<init>	(Lix;Z)V	1	0
 pz	uh			pz	9

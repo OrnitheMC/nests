@@ -20,6 +20,7 @@ aeq	fp	a	(Ljava/io/File;Ljava/util/ArrayList;)V	1	0
 aeu	rz			aeu	9
 aev	rz			aev	9
 aex	abb			aex	9
+afa	net/minecraft/client/Minecraft			afa	16409
 afb	ais			1	4104
 afi	rz			afi	9
 afo	er	<init>	(Ldc;)V	1	0

@@ -23,6 +23,7 @@ aga	fv	a	(Ljava/io/File;Ljava/util/Collection;)V	1	0
 age	sx			age	9
 agf	sx			agf	9
 agh	ach			agh	9
+agm	net/minecraft/client/Minecraft			agm	16409
 ago	akg			1	4104
 agu	sx			agu	9
 aha	ew	<init>	(Ldf;)V	1	0

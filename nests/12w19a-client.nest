@@ -38,6 +38,7 @@ ajw	hc	a	(Ljava/io/File;Ljava/util/Collection;)V	1	0
 aka	vm			aka	9
 akb	vm			akb	9
 akd	afv			akd	9
+aki	net/minecraft/client/Minecraft			aki	16409
 akk	aoe			1	4104
 akp	vm			akp	9
 akw	gc	<init>	(Lee;)V	1	0

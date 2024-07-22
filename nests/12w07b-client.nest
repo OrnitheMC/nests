@@ -20,6 +20,7 @@ aea	fj	a	(Ljava/io/File;Ljava/util/ArrayList;)V	1	0
 aee	rq			aee	9
 aef	rq			aef	9
 aeh	aal			aeh	9
+aek	net/minecraft/client/Minecraft			aek	16409
 ael	ahy			1	4104
 aes	rq			aes	9
 aey	el	<init>	(Lcx;)V	1	0

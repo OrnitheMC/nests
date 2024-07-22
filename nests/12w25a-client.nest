@@ -44,6 +44,7 @@ als	wq			als	9
 alu	wq			alu	9
 alv	ahk			alv	9
 am	aos	<clinit>	()V	3	8
+amb	net/minecraft/client/Minecraft			amb	16409
 amd	aqd			1	4104
 amh	wq			amh	9
 amo	gq	<init>	(Len;)V	1	0

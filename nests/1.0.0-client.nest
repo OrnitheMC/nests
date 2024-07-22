@@ -106,6 +106,7 @@ pn	ri	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
 po	hc	c	()V	2	0
 qa	tc			qa	8
 qb	net/minecraft/client/Minecraft	a	()V	2	0
+qe	net/minecraft/client/Minecraft			qe	16409
 qr	net/minecraft/client/Minecraft			4	4105
 qt	ml			1	4104
 qy	vi			qy	16409

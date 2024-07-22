@@ -25,6 +25,7 @@ jy	oh			jy	0
 ld	ha			ld	0
 lh	ik			lh	0
 m	net/minecraft/client/MinecraftApplet	init	()V	1	0
+mh	net/minecraft/client/Minecraft			mh	16409
 mu	u	<init>	(Lhh;Z)V	1	0
 my	qp			my	9
 n	net/minecraft/client/MinecraftApplet	init	()V	2	0

@@ -47,6 +47,7 @@ amd	hv	a	(Ljava/io/File;Ljava/util/Collection;)V	1	0
 amg	xb			amg	9
 ami	xb			ami	9
 amj	ahy			amj	9
+amp	net/minecraft/client/Minecraft			amp	16409
 amr	aqs			1	4104
 amv	xb			amv	9
 an	apg	<clinit>	()V	4	8

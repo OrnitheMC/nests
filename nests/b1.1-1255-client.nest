@@ -12,6 +12,7 @@ hd	eu	<init>	()V	1	0
 i	net/minecraft/client/MinecraftApplet	init	()V	1	0
 j	net/minecraft/client/MinecraftApplet	init	()V	2	0
 jb	fs			jb	0
+ke	net/minecraft/client/Minecraft			ke	16409
 kq	r	<init>	(Lfy;Z)V	1	0
 kt	nw			kt	9
 lx	as			lx	16409
