@@ -12,7 +12,7 @@ bj	so	<clinit>	()V	2	8
 bl	so	<clinit>	()V	3	8
 bp	fy			bp	16409
 bs	iv			bs	1033
-ca	gq			ca	0
+ca	gq			ca	8
 cd	ru			cd	9
 ci	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cj	ve			cj	1033
@@ -73,7 +73,7 @@ np	kj			np	9
 nr	kj			nr	9
 nw	gf			nw	16409
 ny	ff			ny	8
-ot	gq			ot	0
+ot	gq			ot	8
 ov	bq			ov	16409
 p	ve			p	9
 pa	dy	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0

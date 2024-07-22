@@ -2,7 +2,7 @@ ab	ra	<clinit>	()V	1	8
 ad	ra	<clinit>	()V	2	8
 av	ig			av	9
 bc	fg			bc	16409
-br	fy			br	0
+br	fy			br	8
 by	ra			by	9
 cb	fm			cb	16409
 cj	eq			cj	0
@@ -28,7 +28,7 @@ m	net/minecraft/client/MinecraftApplet	init	()V	1	0
 mu	u	<init>	(Lhh;Z)V	1	0
 my	qp			my	9
 n	net/minecraft/client/MinecraftApplet	init	()V	2	0
-oj	fy			oj	0
+oj	fy			oj	8
 ok	bd			ok	16409
 oq	qp			oq	9
 pi	qp			pi	9

@@ -19,7 +19,7 @@ act	gk	c	([Ljava/lang/Object;)Lyj;	3	8
 acv	gk	a	(I)Lyj;	4	8
 acw	gk	a	(Lkq;)Lyj;	5	8
 acx	hu			acx	9
-adr	ey			adr	0
+adr	ey			adr	8
 ads	so			ads	16409
 ae	np	<clinit>	()V	1	8
 aeb	yg			aeb	8
@@ -54,7 +54,7 @@ bc	agh	<clinit>	()V	2	8
 bd	agh	<clinit>	()V	3	8
 bk	cq			bk	0
 bl	ot	a	(IIIILaay;)V	1	0
-bo	ey			bo	0
+bo	ey			bo	8
 bq	nx			bq	9
 bt	qi			bt	1033
 bu	ox			bu	16409

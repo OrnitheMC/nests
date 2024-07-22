@@ -20,7 +20,7 @@ adq	gs	c	([Ljava/lang/Object;)Lzc;	3	8
 ads	gs	a	(I)Lzc;	4	8
 adt	gs	a	(Lla;)Lzc;	5	8
 adu	ie			adu	9
-aep	fg			aep	0
+aep	fg			aep	8
 aeq	tc			aeq	16409
 aez	yz			aez	8
 afc	ie			afc	8
@@ -55,7 +55,7 @@ bh	ahg	<clinit>	()V	2	8
 bi	ahg	<clinit>	()V	3	8
 bp	cv			bp	0
 bq	pf	a	(IIIILabu;)V	1	0
-bt	fg			bt	0
+bt	fg			bt	8
 bv	oj			bv	9
 by	qw			by	1033
 bz	pj			bz	16409

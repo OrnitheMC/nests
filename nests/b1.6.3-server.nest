@@ -4,7 +4,7 @@ ar	nl	<clinit>	()V	1	8
 at	nl	<clinit>	()V	2	8
 av	nl	<clinit>	()V	3	8
 az	eh			az	16409
-bk	ev			bk	0
+bk	ev			bk	8
 bo	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 bp	net/minecraft/server/MinecraftServer	a	(Lii;Ljava/lang/String;J)V	2	1
 bq	net/minecraft/server/MinecraftServer	c	()Z	3	1
@@ -27,7 +27,7 @@ io	gq			io	0
 jp	n	<init>	(Lfv;Z)V	1	0
 jr	mn			jr	9
 jz	dv			jz	8
-ks	ev			ks	0
+ks	ev			ks	8
 kt	ba			kt	16409
 kz	cs	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 ld	mn			ld	9

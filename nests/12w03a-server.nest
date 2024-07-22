@@ -17,7 +17,7 @@ by	wc	<clinit>	()V	3	8
 c	jg	<init>	(Ljq;Lfu;III)V	1	0
 ce	hk			ce	16409
 ch	ko			ch	1033
-cv	id			cv	0
+cv	id			cv	8
 cx	vd			cx	9
 dc	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 dd	net/minecraft/server/MinecraftServer	a	(Lnt;Ljava/lang/String;JLdx;)V	2	1
@@ -84,7 +84,7 @@ qg	mo			qg	9
 qh	mo			qh	9
 qo	hr			qo	16409
 qq	gp			qq	8
-ro	id			ro	0
+ro	id			ro	8
 rq	cf			rq	16409
 rv	fa	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 sa	ub			sa	9

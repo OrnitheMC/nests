@@ -15,7 +15,7 @@ bo	tt	<clinit>	()V	3	8
 bs	gh			bs	16409
 bv	ji			bv	1033
 c	hz	<init>	(Lik;Lev;III)V	1	0
-ce	gz			ce	0
+ce	gz			ce	8
 ch	sy			ch	9
 cm	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cn	wk			cn	1033
@@ -79,7 +79,7 @@ ok	la			ok	9
 om	la			om	9
 os	gn			os	16409
 ou	fn			ou	8
-pr	gz			pr	0
+pr	gz			pr	8
 pt	bt			pt	16409
 py	ed	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 q	wk			q	9

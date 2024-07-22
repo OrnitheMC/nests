@@ -24,7 +24,7 @@ aex	hb	c	([Ljava/lang/Object;)Laaf;	3	8
 aez	hb	a	(I)Laaf;	4	8
 afa	hb	a	(Lll;)Laaf;	5	8
 afb	in			afb	9
-afw	fm			afw	0
+afw	fm			afw	8
 afx	ty			afx	16409
 agi	aac			agi	8
 agl	in			agl	8
@@ -59,7 +59,7 @@ bi	aiu	<clinit>	()V	2	8
 bj	aiu	<clinit>	()V	3	8
 bt	cz			bt	0
 bu	py	a	(IIIILacz;)V	1	0
-bx	fm			bx	0
+bx	fm			bx	8
 bz	pa			bz	9
 cc	rp			cc	1033
 cd	qc			cd	16409

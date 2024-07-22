@@ -17,7 +17,7 @@ bx	vl	<clinit>	()V	3	8
 c	iz	<init>	(Ljj;Lfp;III)V	1	0
 cc	hf			cc	16409
 cf	kh			cf	1033
-cq	hx			cq	0
+cq	hx			cq	8
 cu	um			cu	9
 cy	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cz	net/minecraft/server/MinecraftServer	a	(Lnm;Ljava/lang/String;JLdt;)V	2	1
@@ -84,7 +84,7 @@ pz	mh			pz	9
 q	yj			q	9
 qg	hl			qg	16409
 qi	gk			qi	8
-rf	hx			rf	0
+rf	hx			rf	8
 rh	cd			rh	16409
 rm	ev	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 rq	to			rq	9

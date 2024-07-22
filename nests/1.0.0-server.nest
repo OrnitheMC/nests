@@ -7,7 +7,7 @@ bt	qc			1	4104
 bv	if			bv	9
 bw	gj			bw	8
 by	bq	<clinit>	()V	1	8
-c	qc			c	0
+c	qc			c	8
 ch	ju	<clinit>	()V	1	8
 cm	i			cm	9
 co	i			co	9
@@ -100,7 +100,7 @@ sp	ei			sp	9
 t	pb			t	1
 tp	nj			tp	9
 tw	pr			tw	16409
-ua	qc			ua	0
+ua	qc			ua	8
 um	if			um	9
 uu	ko	<init>	(Ljava/net/Socket;Ljava/lang/String;Lhs;)V	2	0
 uw	bq			uw	1032

@@ -1,6 +1,6 @@
 al	fx			al	9
 as	du			as	16409
-bd	eh			bd	0
+bd	eh			bd	8
 bg	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 bh	net/minecraft/server/MinecraftServer	a	(Lhp;Ljava/lang/String;J)V	2	1
 bi	net/minecraft/server/MinecraftServer	d	()Z	3	1
@@ -22,7 +22,7 @@ hv	fy			hv	0
 ir	m	<init>	(Lff;Z)V	1	0
 it	lk			it	9
 jb	dj			jb	8
-js	eh			js	0
+js	eh			js	8
 ju	at			ju	16409
 jy	ci	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 kb	lk			kb	9

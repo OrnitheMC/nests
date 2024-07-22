@@ -17,7 +17,7 @@ bt	uv	<clinit>	()V	3	8
 by	gw			by	16409
 c	iq	<init>	(Lja;Lfi;III)V	1	0
 cb	jx			cb	1033
-cm	ho			cm	0
+cm	ho			cm	8
 cp	tx			cp	9
 cu	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cv	net/minecraft/server/MinecraftServer	a	(Lmz;Ljava/lang/String;J)V	2	1
@@ -83,7 +83,7 @@ pk	lu			pk	9
 pm	lu			pm	9
 pt	hc			pt	16409
 pv	gc			pv	8
-qs	ho			qs	0
+qs	ho			qs	8
 qu	bz			qu	16409
 qz	ep	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 rc	sz			rc	9

@@ -3,7 +3,7 @@ an	mp	<clinit>	()V	1	8
 ap	mp	<clinit>	()V	2	8
 ar	mp	<clinit>	()V	3	8
 av	dy			av	16409
-bg	el			bg	0
+bg	el			bg	8
 bj	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 bk	net/minecraft/server/MinecraftServer	a	(Lhu;Ljava/lang/String;J)V	2	1
 bl	net/minecraft/server/MinecraftServer	c	()Z	3	1
@@ -25,7 +25,7 @@ ia	gc			ia	0
 iy	n	<init>	(Lfj;Z)V	1	0
 ja	ls			ja	9
 ji	dn			ji	8
-ka	el			ka	0
+ka	el			ka	8
 kc	aw			kc	16409
 kg	cl	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 kj	ls			kj	9

@@ -1,7 +1,7 @@
 aa	ql	<clinit>	()V	1	8
 ac	ql	<clinit>	()V	2	8
 az	ex			az	16409
-bn	fp			bn	0
+bn	fp			bn	8
 bu	ql			bu	9
 ce	ei			ce	0
 dm	gj			dm	9
@@ -26,7 +26,7 @@ kt	hz			kt	0
 l	net/minecraft/client/MinecraftApplet	init	()V	2	0
 mf	t	<init>	(Lgy;Z)V	1	0
 mj	qa			mj	9
-nt	fp			nt	0
+nt	fp			nt	8
 nu	ba			nu	16409
 oa	qa			oa	9
 oh	eh			oh	0

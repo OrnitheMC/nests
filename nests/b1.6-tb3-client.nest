@@ -8,7 +8,7 @@ bm	vj	<clinit>	()V	2	8
 bo	vj	<clinit>	()V	3	8
 bs	gk			bs	16409
 cg	dt			cg	0
-ck	hg			ck	0
+ck	hg			ck	8
 cr	un			cr	9
 cu	gq			cu	16409
 dc	fq			dc	0
@@ -51,7 +51,7 @@ q	net/minecraft/client/MinecraftApplet	init	()V	2	0
 qb	jw	c	([Ljava/lang/Object;)Ljp;	3	8
 qc	jw	a	(I)Ljp;	4	8
 qe	jw	a	(Lpw;)Ljp;	5	8
-rn	hg			rn	0
+rn	hg			rn	8
 ro	bt			ro	16409
 rw	uc			rw	9
 sd	ir			sd	1

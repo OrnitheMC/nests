@@ -8,7 +8,7 @@ bo	vr	<clinit>	()V	2	8
 bq	vr	<clinit>	()V	3	8
 bu	gm			bu	16409
 ci	dv			ci	0
-cm	hi			cm	0
+cm	hi			cm	8
 ct	uu			ct	9
 cw	gs			cw	16409
 de	ft			de	0
@@ -51,7 +51,7 @@ qf	ka	c	([Ljava/lang/Object;)Ljt;	3	8
 qg	ka	a	(I)Ljt;	4	8
 qi	ka	a	(Lqa;)Ljt;	5	8
 r	net/minecraft/client/MinecraftApplet	init	()V	2	0
-rs	hi			rs	0
+rs	hi			rs	8
 rt	bv			rt	16409
 sb	uh			sb	9
 si	iu			si	1
