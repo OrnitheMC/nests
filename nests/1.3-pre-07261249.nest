@@ -238,6 +238,7 @@ net/minecraft/client/s	net/minecraft/client/Minecraft	d	(La;)La;	7	0
 net/minecraft/client/t	net/minecraft/client/Minecraft	d	(La;)La;	8	0
 net/minecraft/client/u	net/minecraft/client/Minecraft	d	(La;)La;	9	0
 net/minecraft/client/v	net/minecraft/client/Minecraft	d	(La;)La;	10	0
+net/minecraft/client/w	net/minecraft/client/Minecraft			w	16409
 net/minecraft/client/x	net/minecraft/client/MinecraftApplet	init	()V	1	0
 net/minecraft/client/y	net/minecraft/client/MinecraftApplet	init	()V	2	0
 net/minecraft/server/f	net/minecraft/server/e			f	0

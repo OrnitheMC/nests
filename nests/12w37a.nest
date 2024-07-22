@@ -107,6 +107,7 @@ aoy	net/minecraft/client/Minecraft	d	(La;)La;	8	0
 aoz	net/minecraft/client/Minecraft	d	(La;)La;	9	0
 apa	net/minecraft/client/Minecraft	d	(La;)La;	10	0
 apb	net/minecraft/client/Minecraft	d	(La;)La;	11	0
+apc	net/minecraft/client/Minecraft			apc	16409
 apd	net/minecraft/client/MinecraftApplet	init	()V	1	0
 ape	net/minecraft/client/MinecraftApplet	init	()V	2	0
 api	aph			1	4104

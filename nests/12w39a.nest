@@ -108,6 +108,7 @@ ape	net/minecraft/client/Minecraft	d	(La;)La;	8	0
 apf	net/minecraft/client/Minecraft	d	(La;)La;	9	0
 apg	net/minecraft/client/Minecraft	d	(La;)La;	10	0
 aph	net/minecraft/client/Minecraft	d	(La;)La;	11	0
+api	net/minecraft/client/Minecraft			api	16409
 apj	net/minecraft/client/MinecraftApplet	init	()V	1	0
 apk	net/minecraft/client/MinecraftApplet	init	()V	2	0
 apo	apn			1	4104

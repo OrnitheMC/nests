@@ -127,6 +127,7 @@ arz	net/minecraft/client/Minecraft	b	(La;)La;	9	0
 asa	net/minecraft/client/Minecraft	b	(La;)La;	10	0
 asb	net/minecraft/client/Minecraft	b	(La;)La;	11	0
 asc	net/minecraft/client/Minecraft	b	(La;)La;	12	0
+asd	net/minecraft/client/Minecraft			asd	16409
 ase	net/minecraft/client/MinecraftApplet	init	()V	1	0
 asf	net/minecraft/client/MinecraftApplet	init	()V	2	0
 asj	asi			1	4104

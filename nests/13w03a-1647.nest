@@ -133,6 +133,7 @@ atv	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	12	8
 atw	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	13	8
 atx	net/minecraft/client/Minecraft	b	(La;)La;	14	0
 aty	net/minecraft/client/Minecraft	b	(La;)La;	15	0
+atz	net/minecraft/client/Minecraft			atz	16409
 aua	net/minecraft/client/MinecraftApplet	init	()V	1	0
 aub	net/minecraft/client/MinecraftApplet	init	()V	2	0
 auf	aue			1	4104

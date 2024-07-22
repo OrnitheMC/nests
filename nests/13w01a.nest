@@ -134,6 +134,7 @@ asx	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	12	8
 asy	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	13	8
 asz	net/minecraft/client/Minecraft	b	(La;)La;	14	0
 ata	net/minecraft/client/Minecraft	b	(La;)La;	15	0
+atb	net/minecraft/client/Minecraft			atb	16409
 atc	net/minecraft/client/MinecraftApplet	init	()V	1	0
 atd	net/minecraft/client/MinecraftApplet	init	()V	2	0
 ath	atg			1	4104

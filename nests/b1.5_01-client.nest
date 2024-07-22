@@ -23,6 +23,7 @@ hn	gw			1	4104
 ib	pv			ib	16409
 if	dn			if	1024
 in	ty			in	16409
+iu	ak			iu	16409
 jl	jg	b	([Ljava/lang/Object;)Liz;	1	8
 jm	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 jn	net/minecraft/client/Minecraft	a	()V	2	0

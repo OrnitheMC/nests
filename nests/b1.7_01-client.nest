@@ -25,6 +25,7 @@ ic	hi			1	4104
 iq	qv			iq	16409
 iv	dv			iv	1024
 jg	vf			jg	16409
+jn	an			jn	16409
 kf	ka	b	([Ljava/lang/Object;)Ljt;	1	8
 kg	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 kh	net/minecraft/client/Minecraft	a	()V	2	0

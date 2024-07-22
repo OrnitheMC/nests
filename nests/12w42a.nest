@@ -109,6 +109,7 @@ aqo	net/minecraft/client/Minecraft	b	(La;)La;	8	0
 aqp	net/minecraft/client/Minecraft	b	(La;)La;	9	0
 aqq	net/minecraft/client/Minecraft	b	(La;)La;	10	0
 aqr	net/minecraft/client/Minecraft	b	(La;)La;	11	0
+aqs	net/minecraft/client/Minecraft			aqs	16409
 aqt	net/minecraft/client/MinecraftApplet	init	()V	1	0
 aqu	net/minecraft/client/MinecraftApplet	init	()V	2	0
 aqy	aqx			1	4104

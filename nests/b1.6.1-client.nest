@@ -25,6 +25,7 @@ hz	hg			1	4104
 in	qq			in	16409
 is	dt			is	1024
 jd	ux			jd	16409
+jk	am			jk	16409
 kb	jw	b	([Ljava/lang/Object;)Ljp;	1	8
 kc	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 kd	net/minecraft/client/Minecraft	a	()V	2	0

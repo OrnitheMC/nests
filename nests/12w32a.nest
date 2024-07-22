@@ -94,6 +94,7 @@ aoc	net/minecraft/client/Minecraft	d	(La;)La;	8	0
 aod	net/minecraft/client/Minecraft	d	(La;)La;	9	0
 aoe	net/minecraft/client/Minecraft	d	(La;)La;	10	0
 aof	net/minecraft/client/Minecraft	d	(La;)La;	11	0
+aog	net/minecraft/client/Minecraft			aog	16409
 aoh	net/minecraft/client/MinecraftApplet	init	()V	1	0
 aoi	net/minecraft/client/MinecraftApplet	init	()V	2	0
 aom	aol			1	4104

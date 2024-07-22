@@ -136,6 +136,7 @@ aup	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	12	8
 auq	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	13	8
 aur	net/minecraft/client/Minecraft	b	(La;)La;	14	0
 aus	net/minecraft/client/Minecraft	b	(La;)La;	15	0
+aut	net/minecraft/client/Minecraft			aut	16409
 auu	net/minecraft/client/MinecraftApplet	init	()V	1	0
 auv	net/minecraft/client/MinecraftApplet	init	()V	2	0
 auz	auy			1	4104

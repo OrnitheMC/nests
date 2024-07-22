@@ -130,6 +130,7 @@ asc	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	12	8
 asd	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	13	8
 ase	net/minecraft/client/Minecraft	b	(La;)La;	14	0
 asf	net/minecraft/client/Minecraft	b	(La;)La;	15	0
+asg	net/minecraft/client/Minecraft			asg	16409
 ash	net/minecraft/client/MinecraftApplet	init	()V	1	0
 asi	net/minecraft/client/MinecraftApplet	init	()V	2	0
 asm	asl			1	4104

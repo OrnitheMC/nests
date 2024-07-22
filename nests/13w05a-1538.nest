@@ -136,6 +136,7 @@ auw	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	12	8
 aux	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	13	8
 auy	net/minecraft/client/Minecraft	b	(Lb;)Lb;	14	0
 auz	net/minecraft/client/Minecraft	b	(Lb;)Lb;	15	0
+ava	net/minecraft/client/Minecraft			ava	16409
 avb	net/minecraft/client/MinecraftApplet	init	()V	1	0
 avc	net/minecraft/client/MinecraftApplet	init	()V	2	0
 avg	avf			1	4104

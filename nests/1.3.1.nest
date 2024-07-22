@@ -86,6 +86,7 @@ anp	net/minecraft/client/Minecraft	d	(La;)La;	8	0
 anq	net/minecraft/client/Minecraft	d	(La;)La;	9	0
 anr	net/minecraft/client/Minecraft	d	(La;)La;	10	0
 ans	net/minecraft/client/Minecraft	d	(La;)La;	11	0
+ant	net/minecraft/client/Minecraft			ant	16409
 anu	net/minecraft/client/MinecraftApplet	init	()V	1	0
 anv	net/minecraft/client/MinecraftApplet	init	()V	2	0
 anz	any			1	4104
