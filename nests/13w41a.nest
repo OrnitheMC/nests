@@ -296,6 +296,9 @@ gw	gv			gw	9
 gx	gv			gx	9
 gy	gv			gy	9
 h	b	h	()V	6	0
+ha	gz			ha 9
+hb	gz			hb 9
+hc	gz			hc 9
 i	b	h	()V	7	0
 ia	hz			ia	1
 ii	ih			ii	16409
