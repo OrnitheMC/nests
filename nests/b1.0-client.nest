@@ -4,6 +4,7 @@ dm	ha			1	4104
 du	ax			du	8
 fb	ha			fb	16409
 ft	lf			ft	16409
+gf	ai			gf	16409
 gs	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 gt	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
 gx	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9

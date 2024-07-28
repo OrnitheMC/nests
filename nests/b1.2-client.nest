@@ -8,6 +8,7 @@ ef	be			ef	8
 fo	hq			fo	16409
 gg	ma			gg	16409
 gq	pr			gq	16409
+gu	an			gu	16409
 hh	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 hi	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
 hn	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9

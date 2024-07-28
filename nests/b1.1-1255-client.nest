@@ -4,6 +4,7 @@ dn	hb			1	4104
 dv	ax			dv	8
 fc	hb			fc	16409
 fu	lg			fu	16409
+gg	ai			gg	16409
 gt	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 gu	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
 gy	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9

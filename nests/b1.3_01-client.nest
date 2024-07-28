@@ -13,6 +13,7 @@ gc	mo			gc	0
 gf	fp			1	4104
 gt	my			gt	16409
 hd	qu			hd	16409
+hj	an			hj	16409
 hx	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 hy	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
 id	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9

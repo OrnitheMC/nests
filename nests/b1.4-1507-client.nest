@@ -15,6 +15,7 @@ gl	nd			gl	0
 go	fy			1	4104
 hc	no			hc	16409
 hm	rk			hm	16409
+ht	ap			ht	16409
 ii	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 ij	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
 io	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
