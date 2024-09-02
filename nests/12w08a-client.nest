@@ -121,7 +121,7 @@ nu	gm			nu	9
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
 ob	jb			ob	8
 od	aau			od	9
-of	net/minecraft/client/Minecraft			6	4104
+of	net/minecraft/client/Minecraft			7	4104
 oh	tt	b	()V	1	0
 on	sm			on	8
 p	ru			p	9

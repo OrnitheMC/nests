@@ -116,7 +116,7 @@ nq	gk			nq	9
 nx	iy			nx	0
 nz	aah			nz	9
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
-ob	net/minecraft/client/Minecraft			6	4104
+ob	net/minecraft/client/Minecraft			7	4104
 od	tn	b	()V	1	0
 oj	sj			oj	8
 oy	io			oy	9

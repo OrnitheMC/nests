@@ -139,7 +139,7 @@ ov	gz			ov	9
 p	net/minecraft/client/MinecraftApplet	init	()V	2	0
 pd	jr			pd	8
 pf	acu			pf	9
-pi	net/minecraft/client/Minecraft			8	4104
+pi	net/minecraft/client/Minecraft			9	4104
 pk	vg	b	()V	1	0
 pn	gn			pn	8
 pr	ty			pr	8

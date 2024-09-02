@@ -110,7 +110,7 @@ n	net/minecraft/client/MinecraftApplet	init	()V	1	0
 nb	gd			nb	9
 ng	io			ng	0
 ni	yz			ni	9
-nk	net/minecraft/client/Minecraft			6	4104
+nk	net/minecraft/client/Minecraft			7	4104
 nm	sq	b	()V	1	0
 ns	ro			ns	8
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0

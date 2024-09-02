@@ -113,7 +113,7 @@ nd	agu			nd	9
 nh	gi			nh	9
 no	it			no	0
 nq	zm			nq	9
-ns	net/minecraft/client/Minecraft			6	4104
+ns	net/minecraft/client/Minecraft			7	4104
 nu	ta	b	()V	1	0
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
 oa	ry			oa	8
