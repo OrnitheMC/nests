@@ -103,7 +103,7 @@ pa	hc	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfe;)V	3	0
 pb	xz			pb	0
 pi	gd	<init>	(Lx;Z)V	1	0
 pn	ri	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
-po	hc	c	()V	2	0
+po	hc	c	()V	4	0
 qa	tc			qa	8
 qb	net/minecraft/client/Minecraft	a	()V	2	0
 qe	net/minecraft/client/Minecraft			qe	16409
