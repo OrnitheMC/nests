@@ -1,0 +1,22 @@
+aa	ba	<init>	(Lav;)V	1	0
+ak	gx	<clinit>	()V	1	8
+al	gx	<clinit>	()V	2	8
+bp	av			bp	16409
+cr	gx			cr	9
+ea	br			ea	16409
+fq	el	<init>	(Ljava/lang/String;Lp;)V	1	0
+fw	bv			fw	8
+fx	bd	b	()V	1	0
+fy	bd	b	(Ljava/lang/String;)V	2	0
+fz	ge	<init>	(Lkk;)V	1	0
+gd	bd			3	4104
+hp	bm			hp	1
+hx	cz			hx	16409
+ik	bd			ik	16409
+ir	bv			ir	8
+ix	av	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+jd	av			2	4105
+je	da			je	8
+jj	hd	<init>	()V	1	0
+r	net/minecraft/client/MinecraftApplet	init	()V	1	0
+s	net/minecraft/client/MinecraftApplet	init	()V	2	0
