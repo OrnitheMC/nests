@@ -1,0 +1,27 @@
+aw	jo			aw	9
+cn	am			cn	8
+dt	hk			dt	16409
+dz	ab			dz	16409
+ei	y	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+el	y			2	4105
+eo	dd	<init>	()V	1	0
+g	net/minecraft/client/MinecraftApplet	init	()V	1	0
+gq	y			gq	16409
+h	net/minecraft/client/MinecraftApplet	init	()V	2	0
+hx	ai			hx	16409
+iu	bw	<init>	(Ljava/lang/String;Lfp;)V	1	0
+iz	ab	b	()V	1	0
+ja	jf	<init>	(Lfb;)V	1	0
+jb	ab	b	(Ljava/lang/String;)V	2	0
+je	ab			3	4104
+jq	ez			jq	0
+jx	gp			jx	1
+kh	ef			kh	8
+kj	am			kj	8
+kk	jz	<init>	(Ly;Ljava/lang/String;I)V	1	0
+kq	gr	<init>	(Ljava/net/Socket;Ljava/lang/String;Liv;)V	1	0
+kr	gr	<init>	(Ljava/net/Socket;Ljava/lang/String;Liv;)V	2	0
+kw	bc			kw	8
+l	gj	<init>	(Ly;)V	1	0
+r	jo	<clinit>	()V	1	8
+s	jo	<clinit>	()V	2	8
