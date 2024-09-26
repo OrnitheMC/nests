@@ -1,0 +1,14 @@
+com/mojang/minecraft/Minecraft$OS	com/mojang/minecraft/l			OS	16409
+com/mojang/minecraft/MinecraftApplet$1	com/mojang/minecraft/MinecraftApplet	init	()V	1	0
+com/mojang/minecraft/e	com/mojang/minecraft/l	<init>	(Ljava/awt/Canvas;Lcom/mojang/minecraft/MinecraftApplet;IIZ)V	1	0
+com/mojang/minecraft/f	com/mojang/minecraft/l			2	4105
+com/mojang/minecraft/h	com/mojang/minecraft/l	run	()V	3	0
+com/mojang/minecraft/c/l	com/mojang/minecraft/c/m	<init>	(Lcom/mojang/minecraft/c/i;Ljava/net/URL;)V	1	0
+com/mojang/minecraft/level/BlockMap$Slot	com/mojang/minecraft/level/BlockMap			Slot	2
+com/mojang/minecraft/level/e	com/mojang/minecraft/level/BlockMap			1	4104
+com/mojang/minecraft/mob/Creeper$1	com/mojang/minecraft/mob/Creeper	<init>	(Lcom/mojang/minecraft/level/Level;FFF)V	1	0
+com/mojang/minecraft/mob/Sheep$1	com/mojang/minecraft/mob/Sheep	<init>	(Lcom/mojang/minecraft/level/Level;FFF)V	1	0
+com/mojang/minecraft/mob/Skeleton$1	com/mojang/minecraft/mob/Skeleton	<init>	(Lcom/mojang/minecraft/level/Level;FFF)V	1	0
+com/mojang/minecraft/net/d	com/mojang/minecraft/net/NetworkPlayer	<init>	(Lcom/mojang/minecraft/l;ILjava/lang/String;IIIFF)V	1	0
+com/mojang/minecraft/net/e	com/mojang/minecraft/net/c	<init>	(Lcom/mojang/minecraft/l;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V	1	0
+com/mojang/minecraft/player/Player$1	com/mojang/minecraft/player/Player	<init>	(Lcom/mojang/minecraft/level/Level;)V	1	0
