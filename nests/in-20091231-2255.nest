@@ -1,0 +1,9 @@
+net/minecraft/a/a/c	net/minecraft/a/a/d			1	4104
+net/minecraft/a/a/f	net/minecraft/a/a/d			f	2
+net/minecraft/client/b	net/minecraft/client/MinecraftApplet	init	()V	1	0
+net/minecraft/client/f	net/minecraft/client/e			f	16409
+net/minecraft/client/j	net/minecraft/client/e	<init>	(Ljava/awt/Canvas;IIZ)V	1	0
+net/minecraft/client/k	net/minecraft/client/e	run	()V	2	0
+net/minecraft/client/l	net/minecraft/client/e			3	4105
+net/minecraft/client/c/p	net/minecraft/client/c/o			p	1
+net/minecraft/client/d/b	net/minecraft/client/d/c	<init>	(Lnet/minecraft/a/a/a;)V	1	0
