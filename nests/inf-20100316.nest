@@ -1,0 +1,12 @@
+net/minecraft/a/a/b/i	net/minecraft/a/a/b/x	<clinit>	()V	1	8
+net/minecraft/a/a/b/j	net/minecraft/a/a/b/x	<clinit>	()V	2	8
+net/minecraft/a/a/b/n	net/minecraft/a/a/b/x			n	9
+net/minecraft/a/b/a/i	net/minecraft/a/b/a/f	<init>	()V	1	0
+net/minecraft/a/c/d	net/minecraft/a/c/a			d	16409
+net/minecraft/client/b	net/minecraft/client/MinecraftApplet	init	()V	1	0
+net/minecraft/client/e	net/minecraft/client/d			e	16409
+net/minecraft/client/m	net/minecraft/client/d	<init>	(Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+net/minecraft/client/n	net/minecraft/client/d			2	4105
+net/minecraft/client/c/f	net/minecraft/client/c/e	a	(Lnet/minecraft/client/c/r;)V	1	0
+net/minecraft/client/c/q	net/minecraft/client/c/f	run	()V	1	0
+net/minecraft/client/c/a/e	net/minecraft/client/c/a/f	<init>	(Lnet/minecraft/a/b;)V	1	0
