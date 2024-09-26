@@ -1,0 +1,20 @@
+net/minecraft/a/a/b/ah	net/minecraft/a/a/b/n			ah	1
+net/minecraft/a/a/b/i	net/minecraft/a/a/b/ab	<clinit>	()V	1	8
+net/minecraft/a/a/b/j	net/minecraft/a/a/b/ab	<clinit>	()V	2	8
+net/minecraft/a/a/b/o	net/minecraft/a/a/b/ab			o	9
+net/minecraft/a/b/a/i	net/minecraft/a/b/a/f	<init>	()V	1	0
+net/minecraft/a/c/d	net/minecraft/a/c/a			d	16409
+net/minecraft/client/c	net/minecraft/client/MinecraftApplet	init	()V	1	0
+net/minecraft/client/d	net/minecraft/client/MinecraftApplet	init	()V	2	0
+net/minecraft/client/g	net/minecraft/client/f			g	16409
+net/minecraft/client/n	net/minecraft/client/h			n	8
+net/minecraft/client/q	net/minecraft/client/h			q	8
+net/minecraft/client/r	net/minecraft/client/f	<init>	(Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+net/minecraft/client/s	net/minecraft/client/f			2	4105
+net/minecraft/client/a/k	net/minecraft/client/a/i	<init>	(Ljava/lang/String;Lnet/minecraft/client/a/c;)V	1	0
+net/minecraft/client/c/a/e	net/minecraft/client/c/a/f	<init>	(Lnet/minecraft/a/b;)V	1	0
+net/minecraft/client/d/a	net/minecraft/client/d/c	<init>	(Lnet/minecraft/client/f;)V	1	0
+net/minecraft/isom/c	net/minecraft/isom/IsomPreviewApplet	start	()V	1	1
+net/minecraft/isom/d	net/minecraft/isom/a	a	(Ljava/lang/String;)V	1	0
+net/minecraft/isom/e	net/minecraft/isom/a			2	4104
+net/minecraft/isom/g	net/minecraft/isom/a			g	16409
