@@ -1,0 +1,20 @@
+ai	gk	<clinit>	()V	1	8
+aj	gk	<clinit>	()V	2	8
+bm	at			bm	16409
+cn	gk			cn	9
+fi	ee	<init>	(Ljava/lang/String;Ln;)V	1	0
+fn	bs			fn	8
+fo	net/minecraft/isom/IsomPreviewApplet	start	()V	1	1
+fp	fw	<init>	(Ljy;)V	1	0
+fq	bb	a	(Ljava/lang/String;)V	1	0
+fu	bb			2	4104
+hf	bk			hf	1
+hm	cv			hm	16409
+hz	bb			hz	16409
+ig	bs			ig	8
+im	at	<init>	(Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+ir	at			2	4105
+iy	gs	<init>	()V	1	0
+p	net/minecraft/client/MinecraftApplet	init	()V	1	0
+q	net/minecraft/client/MinecraftApplet	init	()V	2	0
+y	ba	<init>	(Lat;)V	1	0
