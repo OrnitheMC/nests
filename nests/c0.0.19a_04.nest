@@ -1,0 +1,3 @@
+com/mojang/minecraft/MinecraftApplet$1	com/mojang/minecraft/MinecraftApplet	init	()V	1	0
+com/mojang/minecraft/net/c	com/mojang/minecraft/net/d	<init>	(Lcom/mojang/minecraft/d;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V	1	0
+com/mojang/minecraft/net/e	com/mojang/minecraft/net/NetworkPlayer	<init>	(Lcom/mojang/minecraft/d;ILjava/lang/String;IIIFF)V	1	0
