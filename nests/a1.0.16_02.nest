@@ -10,7 +10,7 @@ fh	net/minecraft/client/Minecraft			4	4105
 fj	dq	<init>	()V	1	0
 g	net/minecraft/client/MinecraftApplet	init	()V	1	0
 h	net/minecraft/client/MinecraftApplet	init	()V	2	0
-ha	ej	openInputStream	()Ljava/io/InputStream;	1	0
+ha	ej			ha	0
 hx	net/minecraft/client/Minecraft			hx	16409
 ii	lf			ii	9
 ji	aj			ji	16409

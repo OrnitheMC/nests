@@ -9,7 +9,7 @@ gm	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/l
 gn	net/minecraft/client/Minecraft			4	4105
 gq	em	<init>	()V	1	0
 i	net/minecraft/client/MinecraftApplet	init	()V	1	0
-im	fi	openInputStream	()Ljava/io/InputStream;	1	0
+im	fi			im	0
 j	net/minecraft/client/MinecraftApplet	init	()V	2	0
 jo	net/minecraft/client/Minecraft			jo	16409
 kc	nf			kc	9
