@@ -76,6 +76,19 @@ cg	sx			cg	1033
 ch	rh			ch	16409
 cj	aaa			cj	16409
 co	er			co	0
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
+com/jcraft/jorbis/VorbisFile$SeekableInputStream	com/jcraft/jorbis/VorbisFile			SeekableInputStream	0
 cr	sx			cr	9
 da	jc			da	9
 db	jl	a	(Llb;)Llb;	1	0
@@ -136,6 +149,10 @@ oq	gu			oq	9
 oy	jl			oy	8
 p	sx			p	9
 pa	ach			pa	9
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
 pc	net/minecraft/client/Minecraft			9	4104
 pe	ux	b	()V	1	0
 pk	tp			pk	8

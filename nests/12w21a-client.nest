@@ -99,6 +99,19 @@ ca	aqw	<clinit>	()V	1	8
 cd	aqw	<clinit>	()V	2	8
 ce	aqw	<clinit>	()V	3	8
 ci	atl			ci	1
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
+com/jcraft/jorbis/VorbisFile$SeekableInputStream	com/jcraft/jorbis/VorbisFile			SeekableInputStream	0
 ct	eg			ct	0
 cu	ua	a	(IIIILakc;)V	1	0
 cy	td			cy	9
@@ -159,6 +172,10 @@ nt	nj	f	()V	5	0
 nu	qx	a	()Lou;	1	0
 oo	api			oo	9
 oz	li			oz	9
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
 pf	gz			pf	16409
 ph	gd			ph	8
 qe	api			qe	9

@@ -68,6 +68,18 @@ cd	qc			cd	16409
 cf	yd			cf	16409
 ck	ej			ck	0
 cl	rq			cl	9
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
 cw	io			cw	9
 di	ww			di	9
 dr	rq			dr	9
@@ -121,6 +133,10 @@ od	tn	b	()V	1	0
 oj	sj			oj	8
 oy	io			oy	9
 p	rq			p	9
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
 pg	gb			pg	9
 ph	uq	a	(Ljava/util/Map;)V	1	0
 pj	uq	a	()V	2	0

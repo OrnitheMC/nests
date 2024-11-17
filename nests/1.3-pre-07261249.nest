@@ -105,6 +105,19 @@ be	bb	a	(Ljava/lang/String;[Ljava/lang/Object;)V	3	0
 bf	bb	d	()V	4	0
 c	a	g	()V	2	0
 co	cn			co	9
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
+com/jcraft/jorbis/VorbisFile$SeekableInputStream	com/jcraft/jorbis/VorbisFile			SeekableInputStream	0
 cu	ct			cu	9
 cv	ct			cv	9
 cw	ct			cw	9
@@ -147,12 +160,41 @@ jm	jl			jm	9
 kg	kf			kg	0
 lj	li			lj	1
 lt	ls			lt	0
+net/minecraft/client/ac	net/minecraft/client/ab			1	4104
+net/minecraft/client/ad	net/minecraft/client/ab			ad	16409
+net/minecraft/client/e	net/minecraft/client/d			e	8
+net/minecraft/client/f	net/minecraft/client/d			f	8
+net/minecraft/client/l	net/minecraft/client/Minecraft	H	()V	1	0
+net/minecraft/client/m	net/minecraft/client/Minecraft			2	4104
+net/minecraft/client/n	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	1n	0
+net/minecraft/client/o	net/minecraft/client/Minecraft	a	()V	3	0
+net/minecraft/client/p	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	4	8
+net/minecraft/client/q	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	5	8
+net/minecraft/client/r	net/minecraft/client/Minecraft	d	(La;)La;	6	0
+net/minecraft/client/s	net/minecraft/client/Minecraft	d	(La;)La;	7	0
+net/minecraft/client/t	net/minecraft/client/Minecraft	d	(La;)La;	8	0
+net/minecraft/client/u	net/minecraft/client/Minecraft	d	(La;)La;	9	0
+net/minecraft/client/v	net/minecraft/client/Minecraft	d	(La;)La;	10	0
+net/minecraft/client/w	net/minecraft/client/Minecraft			w	16409
+net/minecraft/client/x	net/minecraft/client/MinecraftApplet	init	()V	1	0
+net/minecraft/client/y	net/minecraft/client/MinecraftApplet	init	()V	2	0
+net/minecraft/server/f	net/minecraft/server/e			f	0
+net/minecraft/server/g	net/minecraft/server/MinecraftServer	c	(Ljava/lang/String;)V	1	1
+net/minecraft/server/h	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
+net/minecraft/server/i	net/minecraft/server/MinecraftServer	s	()V	3	1
+net/minecraft/server/j	net/minecraft/server/MinecraftServer	b	(La;)La;	4	0
+net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
+net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	6	1
 nq	np			nq	16409
 og	of			og	0
 oh	of			oh	8
 on	om	<init>	(Lno;Lty;III)V	1	0
 oo	om	<init>	(Lno;Lty;III)V	2	0
 os	or	<init>	(Lno;Z)V	1	0
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
 pd	pc			pd	16409
 pq	pp	<clinit>	()V	1	8
 pr	pp	<clinit>	()V	2	8
@@ -224,28 +266,3 @@ zw	zs			zw	9
 zx	zs			zx	9
 zy	zs			zy	9
 zz	zs			zz	9
-net/minecraft/client/ac	net/minecraft/client/ab			1	4104
-net/minecraft/client/ad	net/minecraft/client/ab			ad	16409
-net/minecraft/client/e	net/minecraft/client/d			e	8
-net/minecraft/client/f	net/minecraft/client/d			f	8
-net/minecraft/client/l	net/minecraft/client/Minecraft	H	()V	1	0
-net/minecraft/client/m	net/minecraft/client/Minecraft			2	4104
-net/minecraft/client/n	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	1n	0
-net/minecraft/client/o	net/minecraft/client/Minecraft	a	()V	3	0
-net/minecraft/client/p	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	4	8
-net/minecraft/client/q	net/minecraft/client/Minecraft	main	([Ljava/lang/String;)V	5	8
-net/minecraft/client/r	net/minecraft/client/Minecraft	d	(La;)La;	6	0
-net/minecraft/client/s	net/minecraft/client/Minecraft	d	(La;)La;	7	0
-net/minecraft/client/t	net/minecraft/client/Minecraft	d	(La;)La;	8	0
-net/minecraft/client/u	net/minecraft/client/Minecraft	d	(La;)La;	9	0
-net/minecraft/client/v	net/minecraft/client/Minecraft	d	(La;)La;	10	0
-net/minecraft/client/w	net/minecraft/client/Minecraft			w	16409
-net/minecraft/client/x	net/minecraft/client/MinecraftApplet	init	()V	1	0
-net/minecraft/client/y	net/minecraft/client/MinecraftApplet	init	()V	2	0
-net/minecraft/server/f	net/minecraft/server/e			f	0
-net/minecraft/server/g	net/minecraft/server/MinecraftServer	c	(Ljava/lang/String;)V	1	1
-net/minecraft/server/h	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
-net/minecraft/server/i	net/minecraft/server/MinecraftServer	s	()V	3	1
-net/minecraft/server/j	net/minecraft/server/MinecraftServer	b	(La;)La;	4	0
-net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
-net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	6	1

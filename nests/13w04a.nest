@@ -202,6 +202,19 @@ ch	cg	<init>	(Ljava/net/Socket;Ljava/lang/String;Leg;Ljava/security/PrivateKey;)
 ci	cg	<init>	(Ljava/net/Socket;Ljava/lang/String;Leg;Ljava/security/PrivateKey;)V	2	0
 cj	cg	a	(Ljava/lang/String;[Ljava/lang/Object;)V	3	0
 ck	cg	d	()V	4	0
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
+com/jcraft/jorbis/VorbisFile$SeekableInputStream	com/jcraft/jorbis/VorbisFile			SeekableInputStream	0
 d	a	h	()V	3	0
 ds	dr			ds	9
 dy	dx			dy	9
@@ -278,6 +291,14 @@ nf	ne			nf	9
 nz	ny			nz	0
 o	l	a	(Ll;IIIII)V	3	8
 p	l			p	8
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$1	paulscode/sound/SoundSystemConfig	notifyEOS	(Ljava/lang/String;I)V	1	8
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/libraries/LibraryJavaSound$Exception	paulscode/sound/libraries/LibraryJavaSound			Exception	9
+paulscode/sound/libraries/LibraryJavaSound$MixerRanking	paulscode/sound/libraries/LibraryJavaSound			MixerRanking	9
+paulscode/sound/libraries/LibraryLWJGLOpenAL$Exception	paulscode/sound/libraries/LibraryLWJGLOpenAL			Exception	9
 pd	pc			pd	1
 pn	pm			pn	0
 qa	pz	<init>	(Lzh;)V	1	0

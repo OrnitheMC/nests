@@ -1,10 +1,10 @@
 com/mojang/minecraft/Minecraft$OS	com/mojang/minecraft/l			OS	16409
 com/mojang/minecraft/MinecraftApplet$1	com/mojang/minecraft/MinecraftApplet	init	()V	1	0
+com/mojang/minecraft/c/l	com/mojang/minecraft/c/m	<init>	(Lcom/mojang/minecraft/c/i;Ljava/net/URL;)V	1	0
 com/mojang/minecraft/e	com/mojang/minecraft/l	<init>	(Ljava/awt/Canvas;Lcom/mojang/minecraft/MinecraftApplet;IIZ)V	1	0
+com/mojang/minecraft/e/p	com/mojang/minecraft/e/q	a	(Lcom/mojang/minecraft/e/e;)V	1	0
 com/mojang/minecraft/f	com/mojang/minecraft/l			2	4105
 com/mojang/minecraft/h	com/mojang/minecraft/l	run	()V	3	0
-com/mojang/minecraft/c/l	com/mojang/minecraft/c/m	<init>	(Lcom/mojang/minecraft/c/i;Ljava/net/URL;)V	1	0
-com/mojang/minecraft/e/p	com/mojang/minecraft/e/q	a	(Lcom/mojang/minecraft/e/e;)V	1	0
 com/mojang/minecraft/level/BlockMap$Slot	com/mojang/minecraft/level/BlockMap			Slot	2
 com/mojang/minecraft/level/e	com/mojang/minecraft/level/BlockMap			1	4104
 com/mojang/minecraft/mob/Creeper$1	com/mojang/minecraft/mob/Creeper	<init>	(Lcom/mojang/minecraft/level/Level;FFF)V	1	0

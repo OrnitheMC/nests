@@ -88,6 +88,13 @@ jl	jk			jl	9
 kf	ke			kf	0
 li	lh			li	1
 ls	lr			ls	0
+net/minecraft/server/f	net/minecraft/server/e			f	0
+net/minecraft/server/g	net/minecraft/server/MinecraftServer	c	(Ljava/lang/String;)V	1	1
+net/minecraft/server/h	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
+net/minecraft/server/i	net/minecraft/server/MinecraftServer	s	()V	3	1
+net/minecraft/server/j	net/minecraft/server/MinecraftServer	b	(La;)La;	4	0
+net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
+net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	6	1
 np	no			np	16409
 of	oe			of	0
 og	oe			og	8
@@ -159,10 +166,3 @@ zw	zr			zw	9
 zx	zr			zx	9
 zy	zr			zy	9
 zz	zr			zz	9
-net/minecraft/server/f	net/minecraft/server/e			f	0
-net/minecraft/server/g	net/minecraft/server/MinecraftServer	c	(Ljava/lang/String;)V	1	1
-net/minecraft/server/h	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
-net/minecraft/server/i	net/minecraft/server/MinecraftServer	s	()V	3	1
-net/minecraft/server/j	net/minecraft/server/MinecraftServer	b	(La;)La;	4	0
-net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
-net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	6	1

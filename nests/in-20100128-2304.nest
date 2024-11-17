@@ -1,13 +1,29 @@
-net/minecraft/a/a/e	net/minecraft/a/a/g			e	2
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
 net/minecraft/a/a/a/j	net/minecraft/a/a/a/q			j	9
+net/minecraft/a/a/e	net/minecraft/a/a/g			e	2
 net/minecraft/client/b	net/minecraft/client/MinecraftApplet	init	()V	1	0
-net/minecraft/client/e	net/minecraft/client/d			e	16409
-net/minecraft/client/l	net/minecraft/client/d	<init>	(Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
-net/minecraft/client/m	net/minecraft/client/d	run	()V	2	0
-net/minecraft/client/n	net/minecraft/client/d			3	4105
 net/minecraft/client/b/b	net/minecraft/client/b/o			b	2
 net/minecraft/client/b/f	net/minecraft/client/b/o			f	18
 net/minecraft/client/b/i	net/minecraft/client/b/h	a	(Lnet/minecraft/client/b/w;)V	1	0
 net/minecraft/client/b/m	net/minecraft/client/b/x			m	1
 net/minecraft/client/b/v	net/minecraft/client/b/o			v	17
+net/minecraft/client/e	net/minecraft/client/d			e	16409
 net/minecraft/client/g/c	net/minecraft/client/g/a	<init>	(Lnet/minecraft/client/d;Lnet/minecraft/a/a/f;)V	1	0
+net/minecraft/client/l	net/minecraft/client/d	<init>	(Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+net/minecraft/client/m	net/minecraft/client/d	run	()V	2	0
+net/minecraft/client/n	net/minecraft/client/d			3	4105
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
