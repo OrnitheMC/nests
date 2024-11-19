@@ -183,7 +183,7 @@ oi	rm	a	()Lph;	1	0
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pc	apz			pc	9
 po	lu			po	9
 pt	hi			pt	16409

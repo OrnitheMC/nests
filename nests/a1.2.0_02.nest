@@ -47,7 +47,7 @@ pa	bm			pa	8
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 t	eu			t	9
 u	ne	<clinit>	()V	1	8
 w	ne	<clinit>	()V	2	8

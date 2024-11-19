@@ -42,7 +42,7 @@ os	kc			os	1
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 ph	go			ph	8
 pm	ax			pm	8
 po	ow	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0

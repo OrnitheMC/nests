@@ -61,7 +61,7 @@ pa	td			pa	9
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pg	jg	c	([Ljava/lang/Object;)Liz;	3	8
 ph	jg	a	(I)Liz;	4	8
 pj	jg	a	(Lpb;)Liz;	5	8

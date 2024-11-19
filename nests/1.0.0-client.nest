@@ -115,7 +115,7 @@ pa	hc	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfe;)V	3	0
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pb	xz			pb	0
 pi	gd	<init>	(Lx;Z)V	1	0
 pn	ri	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0

@@ -128,7 +128,7 @@ ot	xr			ot	8
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pe	ju	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
 pf	ju	c	()V	2	0
 pg	ju	<init>	(Ljava/net/Socket;Ljava/lang/String;Lmj;)V	3	0

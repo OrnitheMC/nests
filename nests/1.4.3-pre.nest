@@ -265,7 +265,7 @@ paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
 paulscode/sound/SoundSystemConfig$1	paulscode/sound/SoundSystemConfig	notifyEOS	(Ljava/lang/String;I)V	1	8
-paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 paulscode/sound/libraries/LibraryJavaSound$Exception	paulscode/sound/libraries/LibraryJavaSound			Exception	9
 paulscode/sound/libraries/LibraryJavaSound$MixerRanking	paulscode/sound/libraries/LibraryJavaSound			MixerRanking	9
 paulscode/sound/libraries/LibraryLWJGLOpenAL$Exception	paulscode/sound/libraries/LibraryLWJGLOpenAL			Exception	9
