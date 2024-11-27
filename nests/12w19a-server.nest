@@ -14,7 +14,7 @@ acw	vz			acw	9
 adc	hh			adc	9
 ade	hh			ade	9
 adf	ou			adf	9
-adn	ur			adn	0
+adn	ur			adn	8
 aeh	rm			aeh	8
 aep	hh			aep	9
 af	mh	<clinit>	()V	1	8

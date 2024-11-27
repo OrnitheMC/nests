@@ -23,7 +23,7 @@ hu	dp	<init>	(Ljavax/swing/JTextArea;)V	1	0
 hw	bl			hw	1
 ie	ct			ie	16409
 iv	jf			iv	8
-iw	hb			iw	0
+iw	hb			iw	8
 jr	bs	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
 js	bs	c	()V	2	0
 jt	bs	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfs;)V	3	0

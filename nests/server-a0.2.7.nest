@@ -20,7 +20,7 @@ gy	dc	<init>	(Ljavax/swing/JTextArea;)V	1	0
 ha	bb			ha	1
 hh	ch			hh	16409
 hv	if			hv	8
-hw	gh			hw	0
+hw	gh			hw	8
 io	bi	a	(Ljava/lang/String;)V	1	0
 ip	bi	c	()V	2	0
 iq	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfb;)V	3	0

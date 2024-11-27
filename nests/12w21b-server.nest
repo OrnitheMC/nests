@@ -29,7 +29,7 @@ aet	hz			aet	9
 aev	hz			aev	9
 aew	pr			aew	9
 af	acq	<clinit>	()V	5	8
-aff	vw			aff	0
+aff	vw			aff	8
 afz	sp			afz	8
 ag	nn	d	()Ljavax/swing/JComponent;	2	0
 agh	hz			agh	9

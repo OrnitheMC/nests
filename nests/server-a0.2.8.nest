@@ -20,7 +20,7 @@ gz	dd	<init>	(Ljavax/swing/JTextArea;)V	1	0
 hb	bb			hb	1
 hi	ch			hi	16409
 hw	ig			hw	8
-hx	gi			hx	0
+hx	gi			hx	8
 ip	bi	a	(Ljava/lang/String;)V	1	0
 iq	bi	c	()V	2	0
 ir	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfc;)V	3	0

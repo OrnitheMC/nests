@@ -16,7 +16,7 @@ fo	ch	<init>	(Ljavax/swing/JTextArea;)V	1	0
 fq	ar			fq	1
 fx	bp			fx	16409
 gi	gq			gi	8
-gj	ey			gj	0
+gj	ey			gj	8
 gw	aw	a	(Ljava/lang/String;)V	1	0
 gx	aw	c	()V	2	0
 gy	aw	<init>	(Ljava/net/Socket;Ljava/lang/String;Ldy;)V	3	0

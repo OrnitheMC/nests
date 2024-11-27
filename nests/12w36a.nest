@@ -170,7 +170,7 @@ db	da			db	9
 dc	da			dc	9
 dd	da			dd	9
 e	a	g	()V	4	0
-ep	eo			ep	0
+ep	eo			ep	8
 eq	net/minecraft/server/MinecraftServer	b	(Ljava/lang/String;)V	1	1
 er	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
 es	net/minecraft/server/MinecraftServer	t	()V	3	1

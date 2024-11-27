@@ -18,7 +18,7 @@ fv	ck	<init>	(Ljavax/swing/JTextArea;)V	1	0
 fx	at			fx	1
 ge	bs			ge	16409
 gp	gx			gp	8
-gq	ff			gq	0
+gq	ff			gq	8
 hd	ay	a	(Ljava/lang/String;)V	1	0
 he	ay	c	()V	2	0
 hf	ay	<init>	(Ljava/net/Socket;Ljava/lang/String;Lee;)V	3	0

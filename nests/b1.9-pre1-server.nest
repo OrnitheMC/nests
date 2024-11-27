@@ -99,7 +99,7 @@ sv	ve			sv	9
 sw	kj			sw	9
 sx	ve			sx	9
 tn	iu			tn	8
-to	go			to	0
+to	go			to	8
 uh	my	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
 ui	my	d	()V	2	0
 uj	my	<init>	(Ljava/net/Socket;Ljava/lang/String;Lqf;)V	3	0

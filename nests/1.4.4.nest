@@ -207,7 +207,7 @@ ed	ec			ed	9
 ee	ec			ee	9
 ef	ec			ef	9
 f	a	h	()V	5	0
-fs	fr			fs	0
+fs	fr			fs	8
 ft	net/minecraft/server/MinecraftServer	al	()V	1	1
 fu	net/minecraft/server/MinecraftServer	al	()V	2	1
 fv	net/minecraft/server/MinecraftServer	al	()V	3	1

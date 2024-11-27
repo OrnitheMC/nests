@@ -84,7 +84,7 @@ arm	ahl			arm	9
 art	lw			art	9
 ary	lw			ary	9
 arz	wr			arz	9
-asl	afh			asl	0
+asl	afh			asl	8
 asw	zx			asw	8
 at	aow	<clinit>	()V	6	8
 atb	arv	a	(Ljava/lang/String;I)V	1	0

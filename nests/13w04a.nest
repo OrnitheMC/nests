@@ -241,7 +241,7 @@ gf	ft	a	()V	11	8
 gg	ft	a	()V	12	8
 gh	ft	a	()V	13	8
 gi	ft	a	()V	14	8
-gk	gj			gk	0
+gk	gj			gk	8
 gl	net/minecraft/server/MinecraftServer	b	(Ljava/lang/String;)V	1	1
 gm	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
 gn	net/minecraft/server/MinecraftServer	t	()V	3	1

@@ -20,7 +20,7 @@ gx	db	<init>	(Ljavax/swing/JTextArea;)V	1	0
 gz	bb			gz	1
 hg	ch			hg	16409
 hu	ie			hu	8
-hv	gg			hv	0
+hv	gg			hv	8
 in	bi	a	(Ljava/lang/String;)V	1	0
 io	bi	c	()V	2	0
 ip	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfa;)V	3	0

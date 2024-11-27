@@ -18,7 +18,7 @@ fq	ci	<init>	(Ljavax/swing/JTextArea;)V	1	0
 fs	as			fs	1
 fz	bq			fz	16409
 gk	gs			gk	8
-gl	fa			gl	0
+gl	fa			gl	8
 gy	ax	a	(Ljava/lang/String;)V	1	0
 gz	ax	c	()V	2	0
 ha	ax	<init>	(Ljava/net/Socket;Ljava/lang/String;Lea;)V	3	0

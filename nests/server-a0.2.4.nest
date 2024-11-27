@@ -20,7 +20,7 @@ gv	da	<init>	(Ljavax/swing/JTextArea;)V	1	0
 gx	ba			gx	1
 he	cg			he	16409
 hr	ib			hr	8
-hs	ge			hs	0
+hs	ge			hs	8
 ik	bh	a	(Ljava/lang/String;)V	1	0
 il	bh	c	()V	2	0
 im	bh	<init>	(Ljava/net/Socket;Ljava/lang/String;Ley;)V	3	0

@@ -183,7 +183,7 @@ dv	dt			dv	9
 dw	dt			dw	9
 e	a	g	()V	4	0
 f	a	g	()V	5	0
-fj	fi			fj	0
+fj	fi			fj	8
 fk	net/minecraft/server/MinecraftServer	al	()V	1	1
 fl	net/minecraft/server/MinecraftServer	al	()V	2	1
 fm	net/minecraft/server/MinecraftServer	al	()V	3	1

@@ -19,7 +19,7 @@ gb	co	<init>	(Ljavax/swing/JTextArea;)V	1	0
 gd	av			gd	1
 gk	bu			gk	16409
 gw	hf			gw	8
-gx	fk			gx	0
+gx	fk			gx	8
 hl	bb	a	(Ljava/lang/String;)V	1	0
 hm	bb	c	()V	2	0
 hn	bb	<init>	(Ljava/net/Socket;Ljava/lang/String;Lej;)V	3	0

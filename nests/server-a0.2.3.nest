@@ -19,7 +19,7 @@ gt	cz	<init>	(Ljavax/swing/JTextArea;)V	1	0
 gv	ay			gv	1
 hc	cf			hc	16409
 hp	hz			hp	8
-hq	gc			hq	0
+hq	gc			hq	8
 ii	bf	a	(Ljava/lang/String;)V	1	0
 ij	bf	c	()V	2	0
 ik	bf	<init>	(Ljava/net/Socket;Ljava/lang/String;Lex;)V	3	0

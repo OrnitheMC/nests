@@ -29,7 +29,7 @@ lm	en			lm	9
 lq	hx			lq	1
 m	lg	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 mc	fk			mc	8
-md	dx			md	0
+md	dx			md	8
 mr	hz	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
 ms	hz	c	()V	2	0
 mt	hz	<init>	(Ljava/net/Socket;Ljava/lang/String;Lkj;)V	3	0

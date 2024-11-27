@@ -108,7 +108,7 @@ vc	xr			vc	9
 vd	lu			vd	9
 ve	xr			ve	9
 vx	jw			vx	8
-vy	hm			vy	0
+vy	hm			vy	8
 w	jn			w	9
 ws	oo	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
 wt	oo	d	()V	2	0

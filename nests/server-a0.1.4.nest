@@ -19,7 +19,7 @@ fz	cm	<init>	(Ljavax/swing/JTextArea;)V	1	0
 gb	au			gb	1
 gi	bu			gi	16409
 gu	hd			gu	8
-gv	fi			gv	0
+gv	fi			gv	8
 hj	ba	a	(Ljava/lang/String;)V	1	0
 hk	ba	c	()V	2	0
 hl	ba	<init>	(Ljava/net/Socket;Ljava/lang/String;Leh;)V	3	0

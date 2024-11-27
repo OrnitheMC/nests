@@ -176,7 +176,7 @@ dc	db			dc	9
 dd	db			dd	9
 de	db			de	9
 e	a	g	()V	4	0
-eq	ep			eq	0
+eq	ep			eq	8
 er	net/minecraft/server/MinecraftServer	b	(Ljava/lang/String;)V	1	1
 es	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
 et	net/minecraft/server/MinecraftServer	t	()V	3	1
