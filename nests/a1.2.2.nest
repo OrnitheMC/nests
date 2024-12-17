@@ -21,6 +21,7 @@ gk	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/l
 gl	net/minecraft/client/Minecraft			4	4105
 go	el	<init>	()V	1	0
 i	net/minecraft/client/MinecraftApplet	init	()V	1	0
+ic	nm			ic	9
 ik	fh			ik	0
 j	net/minecraft/client/MinecraftApplet	init	()V	2	0
 jl	net/minecraft/client/Minecraft			jl	16409

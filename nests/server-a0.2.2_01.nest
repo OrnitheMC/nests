@@ -25,6 +25,7 @@ ij	bf	c	()V	2	0
 ik	bf	<init>	(Ljava/net/Socket;Ljava/lang/String;Lex;)V	3	0
 il	bf	<init>	(Ljava/net/Socket;Ljava/lang/String;Lex;)V	4	0
 ir	cj			ir	8
+js	jj			js	9
 ju	iw	<init>	()V	1	0
 u	gg	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 w	gg	d	()Ljavax/swing/JComponent;	2	0

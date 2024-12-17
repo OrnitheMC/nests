@@ -22,6 +22,7 @@ fq	net/minecraft/client/Minecraft			4	4105
 fs	dw	<init>	()V	1	0
 g	net/minecraft/client/MinecraftApplet	init	()V	1	0
 h	net/minecraft/client/MinecraftApplet	init	()V	2	0
+hc	lz			hc	9
 hk	ep			hk	0
 ih	net/minecraft/client/Minecraft			ih	16409
 is	lq			is	9

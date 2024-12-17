@@ -26,6 +26,7 @@ hn	bb	<init>	(Ljava/net/Socket;Ljava/lang/String;Lej;)V	3	0
 ho	bb	<init>	(Ljava/net/Socket;Ljava/lang/String;Lej;)V	4	0
 ht	by			ht	8
 hu	ee	<init>	(Ljava/io/File;Ljava/lang/String;Z)V	1	0
+ir	ij			ir	9
 it	hx	<init>	()V	1	0
 t	fo	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 v	fo	d	()Ljavax/swing/JComponent;	2	0

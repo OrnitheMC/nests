@@ -26,6 +26,7 @@ il	bh	c	()V	2	0
 im	bh	<init>	(Ljava/net/Socket;Ljava/lang/String;Ley;)V	3	0
 in	bh	<init>	(Ljava/net/Socket;Ljava/lang/String;Ley;)V	4	0
 it	ck			it	8
+ju	jl			ju	9
 jw	iy	<init>	()V	1	0
 w	gi	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 y	gi	d	()Ljavax/swing/JComponent;	2	0

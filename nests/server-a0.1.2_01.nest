@@ -24,6 +24,7 @@ gz	ax	c	()V	2	0
 ha	ax	<init>	(Ljava/net/Socket;Ljava/lang/String;Lea;)V	3	0
 hb	ax	<init>	(Ljava/net/Socket;Ljava/lang/String;Lea;)V	4	0
 hg	bu			hg	8
+ic	ht			ic	9
 ie	hj	<init>	()V	1	0
 r	fd	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 u	fd	c	()Ljavax/swing/JComponent;	2	0

@@ -22,6 +22,7 @@ gx	aw	c	()V	2	0
 gy	aw	<init>	(Ljava/net/Socket;Ljava/lang/String;Ldy;)V	3	0
 gz	aw	<init>	(Ljava/net/Socket;Ljava/lang/String;Ldy;)V	4	0
 he	bt			he	8
+ia	hr			ia	9
 ib	hh	<init>	()V	1	0
 q	fb	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 t	fb	c	()Ljavax/swing/JComponent;	2	0

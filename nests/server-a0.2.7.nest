@@ -26,6 +26,7 @@ ip	bi	c	()V	2	0
 iq	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfb;)V	3	0
 ir	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfb;)V	4	0
 ix	cl			ix	8
+jy	jp			jy	9
 ka	jc	<init>	()V	1	0
 w	gl	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 y	gl	d	()Ljavax/swing/JComponent;	2	0

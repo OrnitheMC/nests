@@ -24,6 +24,7 @@ he	ay	c	()V	2	0
 hf	ay	<init>	(Ljava/net/Socket;Ljava/lang/String;Lee;)V	3	0
 hg	ay	<init>	(Ljava/net/Socket;Ljava/lang/String;Lee;)V	4	0
 hl	bw			hl	8
+ih	hz			ih	9
 ij	ho	<init>	()V	1	0
 s	fi	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 u	fi	d	()Ljavax/swing/JComponent;	2	0

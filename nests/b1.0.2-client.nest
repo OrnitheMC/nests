@@ -23,6 +23,7 @@ gx	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/l
 gy	net/minecraft/client/Minecraft			4	4105
 hc	et	<init>	()V	1	0
 i	net/minecraft/client/MinecraftApplet	init	()V	1	0
+is	og			is	9
 j	net/minecraft/client/MinecraftApplet	init	()V	2	0
 ja	fr			ja	0
 kd	net/minecraft/client/Minecraft			kd	16409

@@ -20,6 +20,7 @@ eu	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;)V	3	9
 ev	net/minecraft/client/Minecraft			4	4105
 ey	dh	<init>	()V	1	0
 g	net/minecraft/client/MinecraftApplet	init	()V	1	0
+gb	kj			gb	9
 h	net/minecraft/client/MinecraftApplet	init	()V	2	0
 hc	net/minecraft/client/Minecraft			hc	16409
 hm	ka			hm	9

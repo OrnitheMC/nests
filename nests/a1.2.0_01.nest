@@ -22,6 +22,7 @@ gf	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/l
 gg	net/minecraft/client/Minecraft			4	4105
 gj	eh	<init>	()V	1	0
 h	net/minecraft/client/MinecraftApplet	init	()V	2	0
+hx	nf			hx	9
 if	fc			if	0
 je	net/minecraft/client/Minecraft			je	16409
 js	mv			js	9

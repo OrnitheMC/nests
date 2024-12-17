@@ -30,4 +30,5 @@ jt	bs	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfs;)V	3	0
 ju	bs	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfs;)V	4	0
 ka	cu			ka	8
 kd	he	<init>	()V	1	0
+lb	ks			lb	9
 ld	kg	<init>	()V	1	0
