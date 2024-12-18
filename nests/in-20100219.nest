@@ -13,6 +13,7 @@ com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue
 net/minecraft/a/a/b/i	net/minecraft/a/a/b/x	<clinit>	()V	1	8
 net/minecraft/a/a/b/j	net/minecraft/a/a/b/x	<clinit>	()V	2	8
 net/minecraft/a/a/b/n	net/minecraft/a/a/b/x			n	9
+net/minecraft/a/a/c	net/minecraft/a/a/h			c	0
 net/minecraft/a/a/f	net/minecraft/a/a/i			f	2
 net/minecraft/a/b/a/i	net/minecraft/a/b/a/f	<init>	()V	1	0
 net/minecraft/client/a/j	net/minecraft/client/a/i	<init>	(Ljava/lang/String;Lnet/minecraft/client/a/c;)V	1	0
