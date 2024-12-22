@@ -3,7 +3,7 @@ an	mp	<clinit>	()V	1	8
 ap	mp	<clinit>	()V	2	8
 ar	mp	<clinit>	()V	3	8
 av	dy			av	16409
-bg	el			bg	8
+bg	el			bg	9
 bj	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 bk	net/minecraft/server/MinecraftServer	a	(Lhu;Ljava/lang/String;J)V	2	1
 bl	net/minecraft/server/MinecraftServer	c	()Z	3	1

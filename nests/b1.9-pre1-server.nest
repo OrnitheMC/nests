@@ -12,7 +12,7 @@ bj	so	<clinit>	()V	2	8
 bl	so	<clinit>	()V	3	8
 bp	fy			bp	16409
 bs	iv			bs	1033
-ca	gq			ca	8
+ca	gq			ca	9
 cd	ru			cd	9
 ci	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cj	ve			cj	1033

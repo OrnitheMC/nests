@@ -17,7 +17,7 @@ by	vp	<clinit>	()V	3	8
 c	jb	<init>	(Ljl;Lfq;III)V	1	0
 cd	hg			cd	16409
 cg	ki			cg	1033
-cs	hz			cs	8
+cs	hz			cs	9
 cv	uq			cv	9
 cz	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 da	net/minecraft/server/MinecraftServer	a	(Lnn;Ljava/lang/String;JLdu;)V	2	1

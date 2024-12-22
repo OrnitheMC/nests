@@ -10,7 +10,7 @@ bg	ri	<clinit>	()V	2	8
 bi	ri	<clinit>	()V	3	8
 bm	fn			bm	16409
 bq	ih			bq	1033
-bx	gf			bx	8
+bx	gf			bx	9
 ca	qp			ca	9
 ce	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cf	tr			cf	1033

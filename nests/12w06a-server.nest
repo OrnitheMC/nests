@@ -20,7 +20,7 @@ c	js	<init>	(Lkc;Lgb;III)V	1	0
 ca	wx	<clinit>	()V	3	8
 cg	hu			cg	16409
 cl	la			cl	1033
-da	io			da	8
+da	io			da	9
 dc	vx			dc	9
 di	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 dj	net/minecraft/server/MinecraftServer	a	(Lok;Ljava/lang/String;JLed;)V	2	1

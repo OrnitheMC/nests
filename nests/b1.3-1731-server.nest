@@ -1,5 +1,5 @@
 ap	dm			ap	16409
-az	dz			az	8
+az	dz			az	9
 bc	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 bd	net/minecraft/server/MinecraftServer	a	(Lhe;Ljava/lang/String;)V	2	1
 be	net/minecraft/server/MinecraftServer	d	()Z	3	1

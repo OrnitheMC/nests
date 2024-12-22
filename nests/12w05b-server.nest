@@ -19,7 +19,7 @@ bz	wu	<clinit>	()V	3	8
 c	jn	<init>	(Ljx;Lfz;III)V	1	0
 cf	hq			cf	16409
 ck	kw			ck	1033
-cz	ik			cz	8
+cz	ik			cz	9
 db	vu			db	9
 dg	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 dh	net/minecraft/server/MinecraftServer	a	(Lof;Ljava/lang/String;JLeb;)V	2	1

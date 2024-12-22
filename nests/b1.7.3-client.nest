@@ -8,7 +8,7 @@ bo	vr	<clinit>	()V	2	8
 bq	vr	<clinit>	()V	3	8
 bu	gm			bu	16409
 ci	dv			ci	0
-cm	hi			cm	8
+cm	hi			cm	9
 com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
 com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
 com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0

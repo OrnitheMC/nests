@@ -17,7 +17,7 @@ bt	uv	<clinit>	()V	3	8
 by	gw			by	16409
 c	iq	<init>	(Lja;Lfi;III)V	1	0
 cb	jx			cb	1033
-cm	ho			cm	8
+cm	ho			cm	9
 cp	tx			cp	9
 cu	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cv	net/minecraft/server/MinecraftServer	a	(Lmz;Ljava/lang/String;J)V	2	1

@@ -17,7 +17,7 @@ bx	vl	<clinit>	()V	3	8
 c	iz	<init>	(Ljj;Lfp;III)V	1	0
 cc	hf			cc	16409
 cf	kh			cf	1033
-cq	hx			cq	8
+cq	hx			cq	9
 cu	um			cu	9
 cy	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 cz	net/minecraft/server/MinecraftServer	a	(Lnm;Ljava/lang/String;JLdt;)V	2	1

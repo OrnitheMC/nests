@@ -17,7 +17,7 @@ by	wc	<clinit>	()V	3	8
 c	jg	<init>	(Ljq;Lfu;III)V	1	0
 ce	hk			ce	16409
 ch	ko			ch	1033
-cv	id			cv	8
+cv	id			cv	9
 cx	vd			cx	9
 dc	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 dd	net/minecraft/server/MinecraftServer	a	(Lnt;Ljava/lang/String;JLdx;)V	2	1
