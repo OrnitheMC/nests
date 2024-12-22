@@ -83,7 +83,7 @@ pk	lu			pk	9
 pm	lu			pm	9
 pt	hc			pt	16409
 pv	gc			pv	8
-qs	ho			qs	8
+qs	ho			qs	9
 qu	bz			qu	16409
 qz	ep	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 rc	sz			rc	9

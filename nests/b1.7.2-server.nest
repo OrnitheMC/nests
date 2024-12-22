@@ -28,7 +28,7 @@ ir	gt			ir	9
 js	o	<init>	(Lfx;Z)V	1	0
 ju	mr			ju	9
 kd	dx			kd	8
-kw	ex			kw	8
+kw	ex			kw	9
 kx	bc			kx	16409
 ld	cu	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 lh	mr			lh	9

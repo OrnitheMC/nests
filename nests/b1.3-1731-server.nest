@@ -20,7 +20,7 @@ hk	fp			hk	9
 if	l	<init>	(Lex;Z)V	1	0
 ih	kw			ih	9
 io	dc			io	8
-jf	dz			jf	8
+jf	dz			jf	9
 jh	aq			jh	16409
 jl	cc	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 jo	kw			jo	9

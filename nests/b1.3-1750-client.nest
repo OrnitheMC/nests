@@ -40,7 +40,7 @@ l	net/minecraft/client/MinecraftApplet	init	()V	2	0
 ls	net/minecraft/client/Minecraft			ls	16409
 mf	t	<init>	(Lgy;Z)V	1	0
 mj	qa			mj	9
-nt	fp			nt	8
+nt	fp			nt	9
 nu	ba			nu	16409
 oa	qa			oa	9
 oh	eh			oh	0

@@ -66,7 +66,7 @@ pg	jg	c	([Ljava/lang/Object;)Liz;	3	8
 ph	jg	a	(I)Liz;	4	8
 pj	jg	a	(Lpb;)Liz;	5	8
 q	net/minecraft/client/MinecraftApplet	init	()V	2	0
-qr	gw			qr	8
+qr	gw			qr	9
 qs	bo			qs	16409
 qy	td			qy	9
 rq	dn			rq	0

@@ -86,7 +86,7 @@ qo	mw			qo	9
 qp	mw			qp	9
 qw	hw			qw	16409
 qy	gt			qy	8
-rx	ii			rx	8
+rx	ii			rx	9
 rz	cf			rz	16409
 se	fd	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 sk	ul			sk	9

@@ -27,7 +27,7 @@ io	gq			io	9
 jp	n	<init>	(Lfv;Z)V	1	0
 jr	mn			jr	9
 jz	dv			jz	8
-ks	ev			ks	8
+ks	ev			ks	9
 kt	ba			kt	16409
 kz	cs	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 ld	mn			ld	9

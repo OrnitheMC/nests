@@ -42,7 +42,7 @@ mh	net/minecraft/client/Minecraft			mh	16409
 mu	u	<init>	(Lhh;Z)V	1	0
 my	qp			my	9
 n	net/minecraft/client/MinecraftApplet	init	()V	2	0
-oj	fy			oj	8
+oj	fy			oj	9
 ok	bd			ok	16409
 oq	qp			oq	9
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104

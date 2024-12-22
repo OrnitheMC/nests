@@ -84,7 +84,7 @@ qg	mo			qg	9
 qh	mo			qh	9
 qo	hr			qo	16409
 qq	gp			qq	8
-ro	id			ro	8
+ro	id			ro	9
 rq	cf			rq	16409
 rv	fa	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 sa	ub			sa	9

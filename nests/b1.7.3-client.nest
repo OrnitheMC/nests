@@ -69,7 +69,7 @@ qf	ka	c	([Ljava/lang/Object;)Ljt;	3	8
 qg	ka	a	(I)Ljt;	4	8
 qi	ka	a	(Lqa;)Ljt;	5	8
 r	net/minecraft/client/MinecraftApplet	init	()V	2	0
-rs	hi			rs	8
+rs	hi			rs	9
 rt	bv			rt	16409
 sb	uh			sb	9
 si	iu			si	1

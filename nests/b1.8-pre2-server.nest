@@ -59,7 +59,7 @@ mj	t	<init>	(Lhl;Z)V	1	0
 ml	pu			ml	9
 mv	ft			mv	16409
 mw	ew			mw	8
-ns	gf			ns	8
+ns	gf			ns	9
 nu	bn			nu	16409
 nz	dr	<init>	(Lnet/minecraft/server/MinecraftServer;Ljava/net/InetAddress;I)V	1	0
 od	pu			od	9

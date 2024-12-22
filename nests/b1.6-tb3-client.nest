@@ -69,7 +69,7 @@ q	net/minecraft/client/MinecraftApplet	init	()V	2	0
 qb	jw	c	([Ljava/lang/Object;)Ljp;	3	8
 qc	jw	a	(I)Ljp;	4	8
 qe	jw	a	(Lpw;)Ljp;	5	8
-rn	hg			rn	8
+rn	hg			rn	9
 ro	bt			ro	16409
 rw	uc			rw	9
 sd	ir			sd	1
