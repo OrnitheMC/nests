@@ -45,7 +45,7 @@ jk	it	<init>	()V	1	0
 jr	pr			jr	9
 kc	hx			kc	9
 kp	hh			kp	9
-kw	in			kw	0
+kw	in			kw	9
 lb	hx			lb	9
 lc	hx			lc	9
 lk	hx			lk	9

@@ -51,7 +51,7 @@ mc	kx	f	()V	1	0
 md	kx	d	()V	2	0
 mf	kx	a	(Ljava/lang/String;)V	3	0
 mt	hz			mt	0
-mz	jo			mz	0
+mz	jo			mz	9
 nz	rt	a	()Lpf;	1	0
 oe	net/minecraft/client/Minecraft			oe	16409
 os	fp	<init>	(Ldn;)V	1	0

@@ -16,7 +16,7 @@ fb	li			fb	16409
 fs	eb	<init>	()V	1	0
 gg	ft	<init>	()V	1	0
 go	kt			go	9
-hk	fp			hk	0
+hk	fp			hk	9
 if	l	<init>	(Lex;Z)V	1	0
 ih	kw			ih	9
 io	dc			io	8

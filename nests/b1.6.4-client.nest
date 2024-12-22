@@ -54,7 +54,7 @@ mu	lp	f	()V	1	0
 mw	lp	d	()V	2	0
 my	lp	a	(Ljava/lang/String;)V	3	0
 nl	il			nl	0
-nr	ke			nr	0
+nr	ke			nr	9
 ou	ss	a	()Lqa;	1	0
 oz	net/minecraft/client/Minecraft			oz	16409
 p	net/minecraft/client/MinecraftApplet	init	()V	1	0

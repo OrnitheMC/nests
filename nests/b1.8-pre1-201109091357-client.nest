@@ -128,7 +128,7 @@ wp	wd	f	()V	1	0
 wr	wd	d	()V	2	0
 wt	wd	a	(Ljava/lang/String;)V	3	0
 wx	uc			wx	0
-xb	vk			xb	0
+xb	vk			xb	9
 xh	uv			xh	9
 xu	nz			xu	9
 xv	nz			xv	9

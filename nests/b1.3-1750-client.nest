@@ -35,7 +35,7 @@ jh	pv			jh	9
 jn	nr			jn	0
 k	net/minecraft/client/MinecraftApplet	init	()V	1	0
 kp	gr			kp	0
-kt	hz			kt	0
+kt	hz			kt	9
 l	net/minecraft/client/MinecraftApplet	init	()V	2	0
 ls	net/minecraft/client/Minecraft			ls	16409
 mf	t	<init>	(Lgy;Z)V	1	0

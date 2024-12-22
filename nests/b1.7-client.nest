@@ -54,7 +54,7 @@ my	lt	f	()V	1	0
 na	lt	d	()V	2	0
 nc	lt	a	(Ljava/lang/String;)V	3	0
 np	io			np	0
-nv	ki			nv	0
+nv	ki			nv	9
 oy	sx	a	()Lqe;	1	0
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
