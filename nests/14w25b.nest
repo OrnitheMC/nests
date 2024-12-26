@@ -47,7 +47,7 @@ adu	adt	<init>	(Lacu;Lalu;Ldi;Lacw;)V	1	0
 adv	adt	<init>	(Lacu;Lalu;Ldi;Lacw;)V	2	0
 adx	adw			adx	0
 adz	ady			adz	0
-aea	ady			aea	8
+aea	ady			aea	0
 aeh	aeg	<init>	(Lacu;Lalu;Ldi;)V	1	0
 aei	aeg	<init>	(Lacu;Lalu;Ldi;)V	2	0
 aej	aeg	<init>	(Lacu;Lalu;Ldi;)V	3	0

@@ -366,7 +366,7 @@ vy	vx	<init>	(Lvb;Lade;IIILvd;)V	1	0
 vz	vx	<init>	(Lvb;Lade;IIILvd;)V	2	0
 wb	wa			wb	0
 wd	wc			wd	0
-we	wc			we	8
+we	wc			we	0
 wk	wj	<init>	(Lvb;Lade;III)V	1	0
 wl	wj	<init>	(Lvb;Lade;III)V	2	0
 wq	wp	<init>	(Lni;Lni;Lsm;)V	1	0

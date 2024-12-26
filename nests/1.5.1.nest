@@ -329,7 +329,7 @@ sp	so	a	(Lwm;)Z	1	0
 sr	sq			sr	16409
 tl	tk			tl	0
 tn	tm			tn	0
-to	tm			to	8
+to	tm			to	0
 tu	tt	<init>	(Lso;Laab;III)V	1	0
 tv	tt	<init>	(Lso;Laab;III)V	2	0
 ua	tz	<init>	(Lso;ZLsq;)V	1	0

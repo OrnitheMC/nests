@@ -97,7 +97,7 @@ net/minecraft/server/k	net/minecraft/server/MinecraftServer	b	(La;)La;	5	1
 net/minecraft/server/l	net/minecraft/server/MinecraftServer	b	(La;)La;	6	1
 np	no			np	16409
 of	oe			of	0
-og	oe			og	8
+og	oe			og	0
 om	ol	<init>	(Lnn;Ltx;III)V	1	0
 on	ol	<init>	(Lnn;Ltx;III)V	2	0
 or	oq	<init>	(Lnn;Z)V	1	0

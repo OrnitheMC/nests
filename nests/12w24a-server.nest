@@ -84,7 +84,7 @@ hk	fn	<init>	()V	1	0
 hl	ic			hl	9
 ho	gk			ho	9
 hq	ady			hq	24
-hu	xi			hu	8
+hu	xi			hu	0
 hw	ic			hw	9
 i	az			i	8
 ik	ic			ik	9

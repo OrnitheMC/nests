@@ -77,7 +77,7 @@ aie	aid	<init>	(Lahb;Laqu;Ldt;Lahd;)V	1	0
 aif	aid	<init>	(Lahb;Laqu;Ldt;Lahd;)V	2	0
 aih	aig			aih	0
 aij	aii			aij	0
-aik	aii			aik	8
+aik	aii			aik	0
 air	aiq	<init>	(Lahb;Laqu;Ldt;)V	1	0
 ais	aiq	<init>	(Lahb;Laqu;Ldt;)V	2	0
 ait	aiq	<init>	(Lahb;Laqu;Ldt;)V	3	0

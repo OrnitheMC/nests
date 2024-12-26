@@ -58,7 +58,7 @@ km	ls			km	9
 ko	it			ko	9
 kp	sz			kp	24
 ld	jl			ld	9
-lh	jc			lh	8
+lh	jc			lh	0
 lj	kn	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
 lm	ls			lm	9
 lr	sr			lr	9

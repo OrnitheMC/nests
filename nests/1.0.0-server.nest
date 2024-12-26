@@ -85,7 +85,7 @@ qh	i			qh	9
 qi	et			qi	0
 qj	pt			qj	8
 qo	vv	<init>	(Lah;Lr;III)V	2	0
-qw	uq			qw	8
+qw	uq			qw	0
 qx	net/minecraft/server/MinecraftServer	s	()Z	3	1
 ra	i			ra	9
 rd	ju	<clinit>	()V	2	8

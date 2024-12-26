@@ -289,7 +289,7 @@ qp	qo	<clinit>	()V	1	8
 ri	rh			ri	16409
 sc	sb			sc	0
 se	sd			se	0
-sf	sd			sf	8
+sf	sd			sf	0
 sl	sk	<init>	(Lrg;Lyn;III)V	1	0
 sm	sk	<init>	(Lrg;Lyn;III)V	2	0
 sr	sq	<init>	(Lrg;ZLrh;)V	1	0

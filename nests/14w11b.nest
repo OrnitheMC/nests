@@ -34,7 +34,7 @@ act	acs	<init>	(Labt;Lakh;Lde;Labv;)V	1	0
 acu	acs	<init>	(Labt;Lakh;Lde;Labv;)V	2	0
 acw	acv			acw	0
 acy	acx			acy	0
-acz	acx			acz	8
+acz	acx			acz	0
 adg	adf	<init>	(Labt;Lakh;Lde;)V	1	0
 adh	adf	<init>	(Labt;Lakh;Lde;)V	2	0
 adi	adf	<init>	(Labt;Lakh;Lde;)V	3	0

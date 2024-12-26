@@ -281,7 +281,7 @@ qf	qe	<clinit>	()V	1	8
 qy	qx			qy	16409
 rr	rq			rr	0
 rt	rs			rt	0
-ru	rs			ru	8
+ru	rs			ru	0
 sa	rz	<init>	(Lqw;Lxv;III)V	1	0
 sb	rz	<init>	(Lqw;Lxv;III)V	2	0
 sf	se	<init>	(Lqw;ZLqx;)V	1	0

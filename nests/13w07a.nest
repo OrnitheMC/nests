@@ -313,7 +313,7 @@ se	sd	a	(Lwb;)Z	1	0
 sg	sf			sg	16409
 ta	sz			ta	0
 tc	tb			tc	0
-td	tb			td	8
+td	tb			td	0
 tj	ti	<init>	(Lsd;Lzq;III)V	1	0
 tk	ti	<init>	(Lsd;Lzq;III)V	2	0
 tp	to	<init>	(Lsd;ZLsf;)V	1	0

@@ -58,7 +58,7 @@ kp	lw			kp	9
 kr	iw			kr	9
 ks	te			ks	24
 lg	jo			lg	9
-lk	jf			lk	8
+lk	jf			lk	0
 lm	kq	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
 lp	lw			lp	9
 lv	sw			lv	9

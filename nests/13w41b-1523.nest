@@ -400,7 +400,7 @@ xy	xx	<init>	(Lxa;Lafe;IIILxc;)V	1	0
 xz	xx	<init>	(Lxa;Lafe;IIILxc;)V	2	0
 yb	ya			yb	0
 yd	yc			yd	0
-ye	yc			ye	8
+ye	yc			ye	0
 yk	yj	<init>	(Lxa;Lafe;III)V	1	0
 yl	yj	<init>	(Lxa;Lafe;III)V	2	0
 yq	yp	<init>	(Lpf;Lpf;Lul;)V	1	0

@@ -61,7 +61,7 @@ lo	mw			lo	9
 lq	jq			lq	9
 lr	uo			lr	24
 mf	kj			mf	9
-mj	jz			mj	8
+mj	jz			mj	0
 mk	lp	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
 mo	mw			mo	9
 mv	ug			mv	9

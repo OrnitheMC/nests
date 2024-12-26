@@ -30,7 +30,7 @@ acp	aco	<init>	(Labp;Lajy;Lde;Labr;)V	1	0
 acq	aco	<init>	(Labp;Lajy;Lde;Labr;)V	2	0
 acs	acr			acs	0
 acu	act			acu	0
-acv	act			acv	8
+acv	act			acv	0
 adc	adb	<init>	(Labp;Lajy;Lde;)V	1	0
 add	adb	<init>	(Labp;Lajy;Lde;)V	2	0
 ade	adb	<init>	(Labp;Lajy;Lde;)V	3	0

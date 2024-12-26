@@ -168,7 +168,7 @@ lb	ly			lb	9
 lc	jc			lc	9
 ld	fg			1	4104
 lf	aqi			lf	24
-ln	ahc			ln	8
+ln	ahc			ln	0
 lr	ly			lr	9
 lx	adn			lx	8
 md	qq			md	0

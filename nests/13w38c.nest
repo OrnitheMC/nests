@@ -364,7 +364,7 @@ wb	wa	<init>	(Lve;Lade;IIILvg;)V	1	0
 wc	wa	<init>	(Lve;Lade;IIILvg;)V	2	0
 we	wd			we	0
 wg	wf			wg	0
-wh	wf			wh	8
+wh	wf			wh	0
 wn	wm	<init>	(Lve;Lade;III)V	1	0
 wo	wm	<init>	(Lve;Lade;III)V	2	0
 wt	ws	<init>	(Lnn;Lnn;Lsr;)V	1	0

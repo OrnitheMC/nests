@@ -38,7 +38,7 @@ ada	acz	<init>	(Laca;Laky;Ldf;Lacc;)V	1	0
 adb	acz	<init>	(Laca;Laky;Ldf;Lacc;)V	2	0
 add	adc			add	0
 adf	ade			adf	0
-adg	ade			adg	8
+adg	ade			adg	0
 adn	adm	<init>	(Laca;Laky;Ldf;)V	1	0
 ado	adm	<init>	(Laca;Laky;Ldf;)V	2	0
 adp	adm	<init>	(Laca;Laky;Ldf;)V	3	0

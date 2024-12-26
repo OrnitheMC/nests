@@ -352,7 +352,7 @@ vr	vq	<init>	(Luu;Lact;IIILuw;)V	1	0
 vs	vq	<init>	(Luu;Lact;IIILuw;)V	2	0
 vu	vt			vu	0
 vw	vv			vw	0
-vx	vv			vx	8
+vx	vv			vx	0
 wd	wc	<init>	(Luu;Lact;III)V	1	0
 we	wc	<init>	(Luu;Lact;III)V	2	0
 wj	wi	<init>	(Lnd;Lnd;Lsh;)V	1	0

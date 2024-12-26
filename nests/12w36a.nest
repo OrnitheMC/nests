@@ -217,7 +217,7 @@ paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
 paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pl	pk			pl	0
 pn	pm			pn	0
-po	pm			po	8
+po	pm			po	0
 pu	pt	<init>	(Lor;Lvl;III)V	1	0
 pv	pt	<init>	(Lor;Lvl;III)V	2	0
 pz	py	<init>	(Lor;ZLos;)V	1	0

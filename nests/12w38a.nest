@@ -224,7 +224,7 @@ paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
 paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 ps	pr			ps	0
 pu	pt			pu	0
-pv	pt			pv	8
+pv	pt			pv	0
 qb	qa	<init>	(Loy;Lvs;III)V	1	0
 qc	qa	<init>	(Loy;Lvs;III)V	2	0
 qg	qf	<init>	(Loy;ZLoz;)V	1	0

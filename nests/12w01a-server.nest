@@ -59,7 +59,7 @@ kz	mh			kz	9
 lb	je			lb	9
 lc	tr			lc	24
 lq	jw			lq	9
-lu	jn			lu	8
+lu	jn			lu	0
 lv	la	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
 lz	mh			lz	9
 mg	tj			mg	9

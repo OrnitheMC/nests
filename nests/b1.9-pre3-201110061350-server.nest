@@ -54,7 +54,7 @@ jx	hb	<init>	()V	1	0
 jy	la			jy	9
 ka	if			ka	9
 kl	iy			kl	9
-kp	io			kp	8
+kp	io			kp	0
 kr	jz	<init>	()V	1	0
 ku	la			ku	9
 kz	ru			kz	9

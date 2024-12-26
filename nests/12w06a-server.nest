@@ -62,7 +62,7 @@ lu	nd			lu	9
 lw	jx			lw	9
 lx	uy			lx	24
 ml	kp			ml	9
-mp	kg			mp	8
+mp	kg			mp	0
 mq	lv	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
 mu	nd			mu	9
 nc	uq			nc	9

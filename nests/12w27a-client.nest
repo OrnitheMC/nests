@@ -175,7 +175,7 @@ lf	md			lf	9
 lg	je			lg	9
 lh	fi			1	4104
 lj	aqs			lj	24
-ls	ahk			ls	8
+ls	ahk			ls	0
 lw	md			lw	9
 mc	adu			mc	8
 me	arq	b	(Log;)Log;	1	0

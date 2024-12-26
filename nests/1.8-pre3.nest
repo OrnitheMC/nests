@@ -75,7 +75,7 @@ aic	aib	<init>	(Lagz;Laqs;Ldt;Lahb;)V	1	0
 aid	aib	<init>	(Lagz;Laqs;Ldt;Lahb;)V	2	0
 aif	aie			aif	0
 aih	aig			aih	0
-aii	aig			aii	8
+aii	aig			aii	0
 aip	aio	<init>	(Lagz;Laqs;Ldt;)V	1	0
 aiq	aio	<init>	(Lagz;Laqs;Ldt;)V	2	0
 air	aio	<init>	(Lagz;Laqs;Ldt;)V	3	0
