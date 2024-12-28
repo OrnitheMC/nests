@@ -1,4 +1,16 @@
 bi	no			bi	9
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
 cq	ez			cq	9
 dn	av			dn	8
 fk	ko			fk	16409
@@ -9,6 +21,7 @@ gm	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/l
 gn	net/minecraft/client/Minecraft			4	4105
 gq	em	<init>	()V	1	0
 i	net/minecraft/client/MinecraftApplet	init	()V	1	0
+ie	np			ie	9
 im	fi			im	0
 j	net/minecraft/client/MinecraftApplet	init	()V	2	0
 jo	net/minecraft/client/Minecraft			jo	16409
@@ -28,6 +41,10 @@ oa	jm			oa	1
 op	gd			op	8
 ou	av			ou	8
 ow	oe	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pc	jp	a	(Ljava/lang/String;)V	1	0
 pd	jp	<init>	(Ljava/net/Socket;Ljava/lang/String;Lmm;)V	2	0
 pf	jp	<init>	(Ljava/net/Socket;Ljava/lang/String;Lmm;)V	3	0
