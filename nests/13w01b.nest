@@ -33,7 +33,7 @@ adx	adr			adx	9
 adz	ady			adz	8
 aeb	aea	<clinit>	()V	1	8
 aec	aea	<clinit>	()V	2	8
-aed	aet			1	4104
+aed	aea			3	4104
 aee	aea			aee	9
 aef	aea			aef	9
 aeg	aea			aeg	9

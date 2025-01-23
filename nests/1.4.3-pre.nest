@@ -33,7 +33,7 @@ adq	adk			adq	9
 ads	adr			ads	8
 adu	adt	<clinit>	()V	1	8
 adv	adt	<clinit>	()V	2	8
-adw	aem			1	4104
+adw	adt			3	4104
 adx	adt			adx	9
 ady	adt			ady	9
 adz	adt			adz	9

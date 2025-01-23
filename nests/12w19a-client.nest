@@ -80,7 +80,7 @@ ash	vm			ash	9
 au	se	<clinit>	()V	1	8
 av	se	<clinit>	()V	2	8
 ax	aqq			ax	0
-be	gt			1	4104
+be	afv			3	4104
 bf	afv	<clinit>	()V	1	8
 bh	afv	<clinit>	()V	2	8
 bn	agq			bn	8

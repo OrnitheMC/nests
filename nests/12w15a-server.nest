@@ -15,7 +15,7 @@ am	jz			am	9
 ap	wm	<clinit>	()V	1	8
 ar	wm	<clinit>	()V	2	8
 as	zs			as	0
-bb	iq			1	4104
+bb	lf			3	4104
 bc	lf	<clinit>	()V	1	8
 be	lf	<clinit>	()V	2	8
 bi	kq			bi	1

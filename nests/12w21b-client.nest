@@ -100,7 +100,7 @@ bf	asl			bf	0
 bg	tc	<clinit>	()V	2	8
 bj	aon	<clinit>	()V	8	8
 bm	aon	<clinit>	()V	9	8
-bq	hi			1	4104
+bq	ahd			3	4104
 br	ahd	<clinit>	()V	1	8
 bs	ahd	<clinit>	()V	2	8
 by	ahy			by	8
