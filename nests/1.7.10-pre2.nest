@@ -276,12 +276,12 @@ btq	btn			3	4104
 btz	bty			1	4104
 bua	bty			bua	16409
 bub	bty			bub	1545
-bud	bub			1	4104
-bue	bub			bue	16409
-buf	bub			buf	1545
-buh	buf			1	4104
-bui	buf			bui	1545
-buj	buf			buj	16409
+bud	buc			1	4104
+bue	buc			bue	16409
+buf	buc			buf	1545
+buh	bug			1	4104
+bui	bug			bui	1545
+buj	bug			buj	16409
 bul	buk			bul	16409
 bun	bum	<init>	(Lbao;Ljava/lang/String;)V	1	0
 buo	bun	run	()V	1	0

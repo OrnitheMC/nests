@@ -287,12 +287,12 @@ buc	btz			3	4104
 bul	buk			1	4104
 bum	buk			bum	16409
 bun	buk			bun	1545
-bup	bun			1	4104
-buq	bun			buq	16409
-bur	bun			bur	1545
-but	bur			1	4104
-buu	bur			buu	1545
-buv	bur			buv	16409
+bup	buo			1	4104
+buq	buo			buq	16409
+bur	buo			bur	1545
+but	bus			1	4104
+buu	bus			buu	1545
+buv	bus			buv	16409
 bux	buw			bux	16409
 buz	buy	<init>	(Lazh;Ljava/lang/String;)V	1	0
 bva	buz	run	()V	1	0

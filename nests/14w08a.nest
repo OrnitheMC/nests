@@ -395,12 +395,12 @@ cct	ccq			3	4104
 cdc	cdb			1	4104
 cdd	cdb			cdd	16409
 cde	cdb			cde	1545
-cdg	cde			1	4104
-cdh	cde			cdh	16409
-cdi	cde			cdi	1545
-cdk	cdi			1	4104
-cdl	cdi			cdl	1545
-cdm	cdi			cdm	16409
+cdg	cdf			1	4104
+cdh	cdf			cdh	16409
+cdi	cdf			cdi	1545
+cdk	cdj			1	4104
+cdl	cdj			cdl	1545
+cdm	cdj			cdm	16409
 cdo	cdn			cdo	16409
 cdq	cdp	<init>	(Lbdq;Lcom/mojang/authlib/properties/Property;)V	1	0
 cdr	cdq	run	()V	1	0

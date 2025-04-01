@@ -288,12 +288,12 @@ bud	bua			3	4104
 bum	bul			1	4104
 bun	bul			bun	16409
 buo	bul			buo	1545
-buq	buo			1	4104
-bur	buo			bur	16409
-bus	buo			bus	1545
-buu	bus			1	4104
-buv	bus			buv	1545
-buw	bus			buw	16409
+buq	bup			1	4104
+bur	bup			bur	16409
+bus	bup			bus	1545
+buu	but			1	4104
+buv	but			buv	1545
+buw	but			buw	16409
 buy	bux			buy	16409
 bva	buz	<init>	(Lazh;Ljava/lang/String;)V	1	0
 bvb	bva	run	()V	1	0

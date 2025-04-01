@@ -301,12 +301,12 @@ bwa	bvx			3	4104
 bwj	bwi			1	4104
 bwk	bwi			bwk	16409
 bwl	bwi			bwl	1545
-bwn	bwl			1	4104
-bwo	bwl			bwo	16409
-bwp	bwl			bwp	1545
-bwr	bwp			1	4104
-bws	bwp			bws	1545
-bwt	bwp			bwt	16409
+bwn	bwm			1	4104
+bwo	bwm			bwo	16409
+bwp	bwm			bwp	1545
+bwr	bwq			1	4104
+bws	bwq			bws	1545
+bwt	bwq			bwt	16409
 bwv	bwu			bwv	16409
 bwx	bww	<init>	(Lbal;Ljava/lang/String;)V	1	0
 bwy	bwx	run	()V	1	0

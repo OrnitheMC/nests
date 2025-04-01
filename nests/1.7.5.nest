@@ -289,12 +289,12 @@ bul	bui			3	4104
 buu	but			1	4104
 buv	but			buv	16409
 buw	but			buw	1545
-buy	buw			1	4104
-buz	buw			buz	16409
-bva	buw			bva	1545
-bvc	bva			1	4104
-bvd	bva			bvd	1545
-bve	bva			bve	16409
+buy	bux			1	4104
+buz	bux			buz	16409
+bva	bux			bva	1545
+bvc	bvb			1	4104
+bvd	bvb			bvd	1545
+bve	bvb			bve	16409
 bvg	bvf			bvg	16409
 bvi	bvh	<init>	(Lazl;Ljava/lang/String;)V	1	0
 bvj	bvi	run	()V	1	0
