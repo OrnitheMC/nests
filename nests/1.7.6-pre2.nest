@@ -243,6 +243,7 @@ blo	bln	a	(Lb;)Lk;	1	0
 blp	bln	a	(Lb;)Lk;	2	0
 blq	bln	a	(Lb;)Lk;	3	0
 blr	bln	a	(Lb;)Lk;	4	0
+blw	blv			blw	16409
 blz	bly	a	(Lblv;)V	1	0
 bma	bly	b	(Lblv;)V	2	0
 bmb	bma	initChannel	(Lio/netty/channel/Channel;)V	1	0

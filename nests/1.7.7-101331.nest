@@ -244,6 +244,7 @@ blq	blp	a	(Lb;)Lk;	1	0
 blr	blp	a	(Lb;)Lk;	2	0
 bls	blp	a	(Lb;)Lk;	3	0
 blt	blp	a	(Lb;)Lk;	4	0
+bly	blx			bly	16409
 bmb	bma	a	(Lblx;)V	1	0
 bmc	bma	b	(Lblx;)V	2	0
 bmd	bmc	initChannel	(Lio/netty/channel/Channel;)V	1	0
