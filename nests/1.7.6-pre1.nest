@@ -281,6 +281,7 @@ btr	btq	<init>	(Lbsm;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessio
 bts	btq	a	(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lbtv;)Lbte;	2	0
 btt	btq	a	(Lcom/mojang/authlib/GameProfile;Lbtv;Z)V	3	0
 btu	btt	run	()V	1	0
+btv	btq			btv	1545
 bue	bud			1	4104
 buf	bud			buf	0
 bux	buw			bux	9

@@ -255,6 +255,7 @@ bri	brh	<init>	(Lbqd;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessio
 brj	brh	a	(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lbrm;)Lbqv;	2	0
 brk	brh	a	(Lcom/mojang/authlib/GameProfile;Lbrm;Z)V	3	0
 brl	brk	run	()V	1	0
+brm	brh			brm	1545
 brv	bru			1	4104
 brw	bru			brw	0
 bs	br			bs	8
