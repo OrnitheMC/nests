@@ -94,7 +94,7 @@ file("nests").eachFile {
 
 	publishing {
 		publications {
-			create("${mcVersion.replace(" ", "")}_mavenJava", MavenPublication) {
+			create("${mcVersion.replace(" ", "").replace("~", "")}_mavenJava", MavenPublication) {
 				groupId maven_group
 				artifactId artifact_id
 				version nextVersion
