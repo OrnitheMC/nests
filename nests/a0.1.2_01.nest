@@ -4,7 +4,7 @@ ac	gt			ac	0
 bd	en			bd	9
 bi	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	1	9
 bj	net/minecraft/server/MinecraftServer	c	()Z	2	1
-bl	net/minecraft/server/MinecraftServer	c	()Z	3	1
+bl	net/minecraft/server/MinecraftServer	<init>	()V	3	1
 bm	ev			bm	9
 bp	ec			bp	8
 cl	au			cl	16409
@@ -18,12 +18,13 @@ fq	ci	<init>	(Ljavax/swing/JTextArea;)V	1	0
 fs	as			fs	1
 fz	bq			fz	16409
 gk	gs			gk	8
-gl	fa			gl	0
+gl	fa			gl	8
 gy	ax	a	(Ljava/lang/String;)V	1	0
 gz	ax	c	()V	2	0
 ha	ax	<init>	(Ljava/net/Socket;Ljava/lang/String;Lea;)V	3	0
 hb	ax	<init>	(Ljava/net/Socket;Ljava/lang/String;Lea;)V	4	0
 hg	bu			hg	8
+ic	ht			ic	9
 ie	hj	<init>	()V	1	0
 r	fd	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 u	fd	c	()Ljavax/swing/JComponent;	2	0

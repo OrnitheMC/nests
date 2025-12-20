@@ -20,12 +20,13 @@ gx	db	<init>	(Ljavax/swing/JTextArea;)V	1	0
 gz	bb			gz	1
 hg	ch			hg	16409
 hu	ie			hu	8
-hv	gg			hv	0
+hv	gg			hv	8
 in	bi	a	(Ljava/lang/String;)V	1	0
 io	bi	c	()V	2	0
 ip	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfa;)V	3	0
 iq	bi	<init>	(Ljava/net/Socket;Ljava/lang/String;Lfa;)V	4	0
 iw	cl			iw	8
+jx	jo			jx	9
 jz	jb	<init>	()V	1	0
 w	gk	a	(Lnet/minecraft/server/MinecraftServer;)V	1	8
 y	gk	d	()Ljavax/swing/JComponent;	2	0

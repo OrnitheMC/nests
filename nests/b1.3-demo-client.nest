@@ -1,0 +1,62 @@
+aa	qn	<clinit>	()V	1	8
+ac	qn	<clinit>	()V	2	8
+az	ez			az	16409
+bn	fq			bn	9
+bu	qn			bu	9
+ce	ej			ce	0
+com/jcraft/jorbis/CodeBook$DecodeAux	com/jcraft/jorbis/CodeBook			DecodeAux	0
+com/jcraft/jorbis/Floor0$EchstateFloor0	com/jcraft/jorbis/Floor0			EchstateFloor0	0
+com/jcraft/jorbis/Floor0$InfoFloor0	com/jcraft/jorbis/Floor0			InfoFloor0	0
+com/jcraft/jorbis/Floor0$LookFloor0	com/jcraft/jorbis/Floor0			LookFloor0	0
+com/jcraft/jorbis/Floor1$EchstateFloor1	com/jcraft/jorbis/Floor1			EchstateFloor1	0
+com/jcraft/jorbis/Floor1$InfoFloor1	com/jcraft/jorbis/Floor1			InfoFloor1	0
+com/jcraft/jorbis/Floor1$LookFloor1	com/jcraft/jorbis/Floor1			LookFloor1	0
+com/jcraft/jorbis/Floor1$Lsfit_acc	com/jcraft/jorbis/Floor1			Lsfit_acc	0
+com/jcraft/jorbis/Mapping0$InfoMapping0	com/jcraft/jorbis/Mapping0			InfoMapping0	0
+com/jcraft/jorbis/Mapping0$LookMapping0	com/jcraft/jorbis/Mapping0			LookMapping0	0
+com/jcraft/jorbis/Residue0$InfoResidue0	com/jcraft/jorbis/Residue0			InfoResidue0	0
+com/jcraft/jorbis/Residue0$LookResidue0	com/jcraft/jorbis/Residue0			LookResidue0	0
+dn	gk			dn	9
+eg	ih			1	4104
+ep	bf			ep	8
+ga	ih			ga	16409
+gd	mo			gd	0
+gg	fq			1	4104
+gu	my			gu	16409
+he	qx			he	16409
+hk	an			hk	16409
+hy	net/minecraft/client/Minecraft	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
+hz	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	2	9
+ie	net/minecraft/client/Minecraft	a	(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	3	9
+if	net/minecraft/client/Minecraft			4	4105
+ij	fs	<init>	()V	1	0
+ji	px			ji	9
+jo	nt			jo	0
+k	net/minecraft/client/MinecraftApplet	init	()V	1	0
+kq	gs			kq	0
+l	net/minecraft/client/MinecraftApplet	init	()V	2	0
+ls	net/minecraft/client/Minecraft			ls	16409
+mf	t	<init>	(Lgz;Z)V	1	0
+mj	qc			mj	9
+nv	fq			nv	9
+nw	ba			nw	16409
+oc	qc			oc	9
+oj	ei			oj	0
+ov	qc			ov	9
+paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
+paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
+paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
+paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
+ph	df	<init>	(Ljava/lang/String;Lkg;)V	1	0
+pk	js			pk	0
+pt	an	b	()V	1	0
+pu	an	b	(Ljava/lang/String;)V	2	0
+py	an			3	4104
+qz	gk			qz	9
+rc	lq			rc	1
+rt	hs			rt	8
+sc	bf			sc	8
+sf	ri	<init>	(Lnet/minecraft/client/Minecraft;Ljava/lang/String;I)V	1	0
+sl	lt	a	(Ljava/lang/String;[Ljava/lang/Object;)V	1	0
+su	ca			su	8
+x	gk			x	9

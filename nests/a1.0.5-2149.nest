@@ -17,6 +17,7 @@ dz	ab			dz	16409
 ei	y	<init>	(Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V	1	0
 el	y			2	4105
 eo	dd	<init>	()V	1	0
+fq	jp			fq	9
 g	net/minecraft/client/MinecraftApplet	init	()V	1	0
 gq	y			gq	16409
 h	net/minecraft/client/MinecraftApplet	init	()V	2	0
