@@ -308,7 +308,7 @@ uw	uv	<init>	(Lty;Labr;IIILua;)V	1	0
 ux	uv	<init>	(Lty;Labr;IIILua;)V	2	0
 uz	uy			uz	0
 vb	va			vb	0
-vc	va			vc	0
+vc	va			vc	8
 vi	vh	<init>	(Lty;Labr;III)V	1	0
 vj	vh	<init>	(Lty;Labr;III)V	2	0
 vo	vn	<init>	(Lml;Lml;Lrp;)V	1	0

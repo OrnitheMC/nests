@@ -357,7 +357,7 @@ vz	vy	<init>	(Lvc;Ladc;IIILve;)V	1	0
 wa	vy	<init>	(Lvc;Ladc;IIILve;)V	2	0
 wc	wb			wc	0
 we	wd			we	0
-wf	wd			wf	0
+wf	wd			wf	8
 wl	wk	<init>	(Lvc;Ladc;III)V	1	0
 wm	wk	<init>	(Lvc;Ladc;III)V	2	0
 wr	wq	<init>	(Lnl;Lnl;Lsp;)V	1	0

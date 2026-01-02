@@ -362,7 +362,7 @@ wa	vz	<init>	(Lvd;Ladd;IIILvf;)V	1	0
 wb	vz	<init>	(Lvd;Ladd;IIILvf;)V	2	0
 wd	wc			wd	0
 wf	we			wf	0
-wg	we			wg	0
+wg	we			wg	8
 wm	wl	<init>	(Lvd;Ladd;III)V	1	0
 wn	wl	<init>	(Lvd;Ladd;III)V	2	0
 ws	wr	<init>	(Lnm;Lnm;Lsq;)V	1	0

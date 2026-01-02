@@ -247,7 +247,7 @@ pn	pm	<clinit>	()V	1	8
 qg	qf			qg	16409
 qz	qy			qz	0
 rb	ra			rb	0
-rc	ra			rc	0
+rc	ra			rc	8
 ri	rh	<init>	(Lqe;Lxd;III)V	1	0
 rj	rh	<init>	(Lqe;Lxd;III)V	2	0
 rn	rm	<init>	(Lqe;ZLqf;)V	1	0

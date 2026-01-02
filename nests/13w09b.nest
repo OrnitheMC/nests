@@ -317,7 +317,7 @@ sg	sf	a	(Lwd;)Z	1	0
 si	sh			si	16409
 tc	tb			tc	0
 te	td			te	0
-tf	td			tf	0
+tf	td			tf	8
 tl	tk	<init>	(Lsf;Lzs;III)V	1	0
 tm	tk	<init>	(Lsf;Lzs;III)V	2	0
 tr	tq	<init>	(Lsf;ZLsh;)V	1	0

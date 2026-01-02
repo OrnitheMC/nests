@@ -242,7 +242,7 @@ pj	pi	<clinit>	()V	1	8
 qc	qb			qc	16409
 qv	qu			qv	0
 qx	qw			qx	0
-qy	qw			qy	0
+qy	qw			qy	8
 re	rd	<init>	(Lqa;Lwz;III)V	1	0
 rf	rd	<init>	(Lqa;Lwz;III)V	2	0
 rj	ri	<init>	(Lqa;ZLqb;)V	1	0

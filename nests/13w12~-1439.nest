@@ -1,3 +1,6 @@
+aac	aab	g	(IIII)V	1	0
+aad	aab	a	(Lb;)Lm;	2	0
+aae	aab	a	(Lb;)Lm;	3	0
 aaj	aai			aaj	16409
 aap	aao			aap	1
 aaw	aav			aaw	9
@@ -291,8 +294,8 @@ na	my	<clinit>	()V	2	8
 nb	my			nb	9
 nq	np			nq	16409
 nt	ns			nt	9
-ob	oa	<init>	(Lnr;Ljava/lang/Class;FFF)V	1	0
 o	m	a	(Lm;IIIII)V	2	8
+ob	oa	<init>	(Lnr;Ljava/lang/Class;FFF)V	1	0
 oo	on			oo	0
 p	m	a	(Lm;IIIII)V	3	8
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
@@ -304,8 +307,8 @@ paulscode/sound/libraries/LibraryJavaSound$Exception	paulscode/sound/libraries/L
 paulscode/sound/libraries/LibraryJavaSound$MixerRanking	paulscode/sound/libraries/LibraryJavaSound			MixerRanking	9
 paulscode/sound/libraries/LibraryLWJGLOpenAL$Exception	paulscode/sound/libraries/LibraryLWJGLOpenAL			Exception	9
 ps	pr			ps	1
-qc	qb			qc	0
 q	m			q	8
+qc	qb			qc	0
 qp	qo	<init>	(Laab;)V	1	0
 rc	rb	<clinit>	()V	1	8
 rp	ro			1	8
@@ -343,6 +346,3 @@ ze	zb			ze	24
 zf	zb			zf	24
 zt	zs			zt	1
 zz	zy			zz	8
-aac	aab	g	(IIII)V	1	0
-aad	aab	a	(Lb;)Lm;	2	0
-aae	aab	a	(Lb;)Lm;	3	0

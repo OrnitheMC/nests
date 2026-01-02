@@ -73,7 +73,7 @@ ahv	aht	<init>	(Lagr;Laqh;Lds;Lagt;)V	2	0
 ahx	ahw			ahx	0
 ahz	ahy			ahz	0
 ai	ah	b	(Lae;Ljava/lang/String;Ljava/lang/Class;)Ljava/util/List;	1	8
-aia	ahy			aia	0
+aia	ahy			aia	8
 aih	aig	<init>	(Lagr;Laqh;Lds;)V	1	0
 aii	aig	<init>	(Lagr;Laqh;Lds;)V	2	0
 aij	aig	<init>	(Lagr;Laqh;Lds;)V	3	0

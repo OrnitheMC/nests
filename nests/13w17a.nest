@@ -277,7 +277,7 @@ sx	sw	a	(Lwv;)Z	1	0
 sz	sy			sz	16409
 tt	ts			tt	0
 tv	tu			tv	0
-tw	tu			tw	0
+tw	tu			tw	8
 uc	ub	<init>	(Lsw;Laao;III)V	1	0
 ud	ub	<init>	(Lsw;Laao;III)V	2	0
 ui	uh	<init>	(Lsw;ZLsy;)V	1	0

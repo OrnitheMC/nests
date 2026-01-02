@@ -41,7 +41,7 @@ adm	adl	<init>	(Lacm;Lalk;Ldg;Laco;)V	1	0
 adn	adl	<init>	(Lacm;Lalk;Ldg;Laco;)V	2	0
 adp	ado			adp	0
 adr	adq			adr	0
-ads	adq			ads	0
+ads	adq			ads	8
 adz	ady	<init>	(Lacm;Lalk;Ldg;)V	1	0
 ae	ad	b	(Lac;Ljava/lang/String;Ljava/lang/Class;)Ljava/util/List;	1	8
 aea	ady	<init>	(Lacm;Lalk;Ldg;)V	2	0

@@ -49,7 +49,7 @@ adx	adw	<init>	(Lacx;Laly;Ldj;Lacz;)V	1	0
 ady	adw	<init>	(Lacx;Laly;Ldj;Lacz;)V	2	0
 aea	adz			aea	0
 aec	aeb			aec	0
-aed	aeb			aed	0
+aed	aeb			aed	8
 aek	aej	<init>	(Lacx;Laly;Ldj;)V	1	0
 ael	aej	<init>	(Lacx;Laly;Ldj;)V	2	0
 aem	aej	<init>	(Lacx;Laly;Ldj;)V	3	0

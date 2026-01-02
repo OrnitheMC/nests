@@ -228,7 +228,7 @@ paulscode/sound/libraries/LibraryJavaSound$MixerRanking	paulscode/sound/librarie
 paulscode/sound/libraries/LibraryLWJGLOpenAL$Exception	paulscode/sound/libraries/LibraryLWJGLOpenAL			Exception	9
 ps	pr			ps	0
 pu	pt			pu	0
-pv	pt			pv	0
+pv	pt			pv	8
 qb	qa	<init>	(Loy;Lvs;III)V	1	0
 qc	qa	<init>	(Loy;Lvs;III)V	2	0
 qg	qf	<init>	(Loy;ZLoz;)V	1	0

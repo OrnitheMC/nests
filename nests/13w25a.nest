@@ -300,7 +300,7 @@ tx	tw	a	(Lxx;)Z	1	0
 tz	ty			tz	16409
 uu	ut			uu	0
 uw	uv			uw	0
-ux	uv			ux	0
+ux	uv			ux	8
 vd	vc	<init>	(Ltw;Labp;III)V	1	0
 ve	vc	<init>	(Ltw;Labp;III)V	2	0
 vj	vi	<init>	(Lmk;Lmk;Lrn;)V	1	0

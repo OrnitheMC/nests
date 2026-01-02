@@ -189,7 +189,7 @@ ma	lz			ma	1
 mk	mj			mk	0
 oh	og			oh	16409
 ox	ow			ox	0
-oy	ow			oy	0
+oy	ow			oy	8
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0

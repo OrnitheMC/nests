@@ -314,7 +314,7 @@ vb	va	<init>	(Lud;Labw;IIILuf;)V	1	0
 vc	va	<init>	(Lud;Labw;IIILuf;)V	2	0
 ve	vd			ve	0
 vg	vf			vg	0
-vh	vf			vh	0
+vh	vf			vh	8
 vn	vm	<init>	(Lud;Labw;III)V	1	0
 vo	vm	<init>	(Lud;Labw;III)V	2	0
 vt	vs	<init>	(Lmo;Lmo;Lrs;)V	1	0

@@ -282,7 +282,7 @@ sy	sx	a	(Lww;)Z	1	0
 ta	sz			ta	16409
 tv	tu			tv	0
 tx	tw			tx	0
-ty	tw			ty	0
+ty	tw			ty	8
 ue	ud	<init>	(Lsx;Laan;III)V	1	0
 uf	ud	<init>	(Lsx;Laan;III)V	2	0
 uk	uj	<init>	(Lsx;ZLsz;)V	1	0

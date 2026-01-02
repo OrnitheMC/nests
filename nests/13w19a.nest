@@ -284,7 +284,7 @@ tb	ta	a	(Lwz;)Z	1	0
 td	tc			td	16409
 ty	tx			ty	0
 ua	tz			ua	0
-ub	tz			ub	0
+ub	tz			ub	8
 uh	ug	<init>	(Lta;Laaq;III)V	1	0
 ui	ug	<init>	(Lta;Laaq;III)V	2	0
 un	um	<init>	(Lta;ZLtc;)V	1	0

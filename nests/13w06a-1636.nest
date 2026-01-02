@@ -310,7 +310,7 @@ sc	sb	a	(Lvz;)Z	1	0
 se	sd			se	16409
 sy	sx			sy	0
 ta	sz			ta	0
-tb	sz			tb	0
+tb	sz			tb	8
 th	tg	<init>	(Lsb;Lzo;III)V	1	0
 ti	tg	<init>	(Lsb;Lzo;III)V	2	0
 tn	tm	<init>	(Lsb;ZLsd;)V	1	0

@@ -308,7 +308,7 @@ ry	rx	a	(Lvv;)Z	1	0
 sa	rz			sa	16409
 su	st			su	0
 sw	sv			sw	0
-sx	sv			sx	0
+sx	sv			sx	8
 td	tc	<init>	(Lrx;Lzh;III)V	1	0
 te	tc	<init>	(Lrx;Lzh;III)V	2	0
 tj	ti	<init>	(Lrx;ZLrz;)V	1	0
