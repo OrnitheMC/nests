@@ -292,6 +292,12 @@ mz	my	<clinit>	()V	1	8
 n	m	a	(Lm;IIIII)V	1	8
 na	my	<clinit>	()V	2	8
 nb	my			nb	9
+nh	ng	bA	()V	1	0
+ni	ng	bA	()V	2	0
+nj	ng	bA	()V	3	0
+nk	ng	bA	()V	4	0
+nl	ng	bA	()V	5	0
+nm	ng	bA	()V	6	0
 nq	np			nq	16409
 nt	ns			nt	9
 o	m	a	(Lm;IIIII)V	2	8
