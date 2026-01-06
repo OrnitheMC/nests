@@ -153,8 +153,8 @@ paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104
 paulscode/sound/MidiChannel$FadeThread	paulscode/sound/MidiChannel			FadeThread	0
 paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
 paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
-pc	net/minecraft/client/Minecraft			9	4104
-pe	ux	b	()V	1	0
+pc	ux			1	4104
+pe	ux	b	()V	2	0
 pk	tp			pk	8
 qc	jc			qc	9
 ql	gl			ql	9

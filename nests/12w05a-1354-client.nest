@@ -128,8 +128,8 @@ nq	gk			nq	9
 nx	ix			nx	0
 nz	aac			nz	9
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
-ob	net/minecraft/client/Minecraft			7	4104
-od	tm	b	()V	1	0
+ob	tm			1	4104
+od	tm	b	()V	2	0
 oj	si			oj	8
 oy	in			oy	9
 p	rp			p	9

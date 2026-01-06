@@ -121,8 +121,8 @@ ms	fx			ms	9
 mx	ih			mx	0
 mz	yk			mz	9
 n	net/minecraft/client/MinecraftApplet	init	()V	2	0
-nb	net/minecraft/client/Minecraft			7	4104
-nd	sf	b	()V	1	0
+nb	sf			1	4104
+nd	sf	b	()V	2	0
 nj	rd			nj	8
 ny	hx			ny	9
 o	ql			o	9

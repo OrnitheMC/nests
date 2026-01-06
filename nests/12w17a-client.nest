@@ -156,8 +156,8 @@ paulscode/sound/SimpleThread$1	paulscode/sound/SimpleThread	restart	()V	1	0
 paulscode/sound/SoundSystemConfig$Codec	paulscode/sound/SoundSystemConfig			Codec	8
 pd	jr			pd	8
 pf	acu			pf	9
-pi	net/minecraft/client/Minecraft			9	4104
-pk	vg	b	()V	1	0
+pi	vg			1	4104
+pk	vg	b	()V	2	0
 pn	gn			pn	8
 pr	ty			pr	8
 q	tg			q	9

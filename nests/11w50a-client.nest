@@ -121,8 +121,8 @@ mt	fy			mt	9
 my	ii			my	0
 n	net/minecraft/client/MinecraftApplet	init	()V	2	0
 na	ym			na	9
-nc	net/minecraft/client/Minecraft			7	4104
-ne	sg	b	()V	1	0
+nc	sg			1	4104
+ne	sg	b	()V	2	0
 nk	re			nk	8
 nz	hy			nz	9
 o	qm			o	9

@@ -131,8 +131,8 @@ nq	gj			nq	9
 nx	ix			nx	0
 nz	aal			nz	9
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
-ob	net/minecraft/client/Minecraft			7	4104
-od	tn	b	()V	1	0
+ob	tn			1	4104
+od	tn	b	()V	2	0
 oj	si			oj	8
 oz	in			oz	9
 p	rq			p	9

@@ -137,8 +137,8 @@ ny	gp			ny	9
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
 og	je			og	8
 oi	abb			oi	9
-ok	net/minecraft/client/Minecraft			7	4104
-om	ty	b	()V	1	0
+ok	ty			1	4104
+om	ty	b	()V	2	0
 os	sr			os	8
 p	rz			p	9
 paulscode/sound/MidiChannel$1	paulscode/sound/MidiChannel			1	4104

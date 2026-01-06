@@ -123,8 +123,8 @@ n	net/minecraft/client/MinecraftApplet	init	()V	1	0
 nd	gf			nd	9
 nj	iq			nj	0
 nl	ze			nl	9
-nn	net/minecraft/client/Minecraft			7	4104
-np	sv	b	()V	1	0
+nn	sv			1	4104
+np	sv	b	()V	2	0
 nv	rt			nv	8
 o	net/minecraft/client/MinecraftApplet	init	()V	2	0
 ok	ig			ok	9
