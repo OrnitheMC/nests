@@ -268,7 +268,7 @@ biy	biu			biy	0
 bja	biu			bja	0
 bjd	bjc	a	(Lcar;)V	1	0
 bjg	bjf			1	4104
-bjh	bjf			2	8
+bjh	bjf			bjh	8
 bji	bjh	<init>	(Ljava/lang/String;)V	1	0
 bjk	bjj			bjk	0
 bjr	bjq	a	(IIIIILbpw;IIZ)V	1	0

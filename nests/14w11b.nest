@@ -326,7 +326,7 @@ bmv	bmr			bmv	0
 bmx	bmr			bmx	0
 bna	bmz	a	(Lcgw;)V	1	0
 bnd	bnc			1	4104
-bne	bnc			2	8
+bne	bnc			bne	8
 bnf	bne	<init>	(Ljava/lang/String;)V	1	0
 bnh	bng			bnh	0
 bno	bnn	a	(IIIIILbtv;IIZ)V	1	0

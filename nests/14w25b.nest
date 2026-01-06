@@ -443,7 +443,7 @@ bth	btd			bth	0
 btj	btd			btj	0
 btm	btl	a	(Lcqr;)V	1	0
 btp	bto			1	4104
-btq	bto			2	8
+btq	bto			btq	8
 btr	btq	<init>	(Ljava/lang/String;)V	1	0
 btt	bts			btt	0
 bua	btz	a	(IIIIILcdg;IIZ)V	1	0

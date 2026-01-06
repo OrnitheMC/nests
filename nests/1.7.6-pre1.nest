@@ -226,7 +226,7 @@ bho	bhm			bho	0
 bhp	bhm			bhp	0
 bht	bhs	a	(Lbxj;)V	1	0
 bhw	bhv			1	4104
-bhx	bhv			2	8
+bhx	bhv			bhx	8
 bhy	bhx	<init>	(Ljava/lang/String;)V	1	0
 bia	bhz			bia	0
 bid	bic	h	()V	1	0

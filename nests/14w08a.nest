@@ -290,7 +290,7 @@ bks	bko			bks	0
 bku	bko			bku	0
 bkx	bkw	a	(Lcec;)V	1	0
 bla	bkz			1	4104
-blb	bkz			2	8
+blb	bkz			blb	8
 blc	blb	<init>	(Ljava/lang/String;)V	1	0
 ble	bld			ble	0
 bll	blk	a	(IIIIILbrs;IIZ)V	1	0

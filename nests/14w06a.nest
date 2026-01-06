@@ -280,7 +280,7 @@ bkg	bkc			bkg	0
 bki	bkc			bki	0
 bkl	bkk	a	(Lcdp;)V	1	0
 bko	bkn			1	4104
-bkp	bkn			2	8
+bkp	bkn			bkp	8
 bkq	bkp	<init>	(Ljava/lang/String;)V	1	0
 bks	bkr			bks	0
 bkz	bky	a	(IIIIILbrf;IIZ)V	1	0

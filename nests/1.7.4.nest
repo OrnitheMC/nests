@@ -220,7 +220,7 @@ bge	bga			bge	0
 bgg	bga			bgg	0
 bgj	bgi	a	(Lbvo;)V	1	0
 bgm	bgl			1	4104
-bgn	bgl			2	8
+bgn	bgl			bgn	8
 bgo	bgn	<init>	(Ljava/lang/String;)V	1	0
 bgq	bgp			bgq	0
 bgx	bgw	a	(IIIIILbna;IIZ)V	1	0

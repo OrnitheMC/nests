@@ -409,7 +409,7 @@ bqu	bqq			bqu	0
 bqw	bqq			bqw	0
 bqz	bqy	a	(Lcky;)V	1	0
 brc	brb			1	4104
-brd	brb			2	8
+brd	brb			brd	8
 bre	brd	<init>	(Ljava/lang/String;)V	1	0
 brg	brf			brg	0
 brn	brm	a	(IIIIILbxw;IIZ)V	1	0

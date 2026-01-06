@@ -260,7 +260,7 @@ bim	bii			bim	0
 bio	bii			bio	0
 bir	biq	a	(Lbyd;)V	1	0
 biu	bit			1	4104
-biv	bit			2	8
+biv	bit			biv	8
 biw	biv	<init>	(Ljava/lang/String;)V	1	0
 biy	bix			biy	0
 bjf	bje	a	(IIIIILbpn;IIZ)V	1	0

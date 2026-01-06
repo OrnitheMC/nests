@@ -304,7 +304,7 @@ blr	bln			blr	0
 blt	bln			blt	0
 blw	blv	a	(Lcfo;)V	1	0
 blz	bly			1	4104
-bma	bly			2	8
+bma	bly			bma	8
 bmb	bma	<init>	(Ljava/lang/String;)V	1	0
 bmd	bmc			bmd	0
 bmk	bmj	a	(IIIIILbsr;IIZ)V	1	0

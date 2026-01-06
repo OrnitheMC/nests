@@ -218,7 +218,7 @@ bfz	bfv			bfz	0
 bgb	bfv			bgb	0
 bge	bgd	a	(Lbvm;)V	1	0
 bgh	bgg			1	4104
-bgi	bgg			2	8
+bgi	bgg			bgi	8
 bgj	bgi	<init>	(Ljava/lang/String;)V	1	0
 bgl	bgk			bgl	0
 bgs	bgr	a	(IIIIILbmv;IIZ)V	1	0

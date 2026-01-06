@@ -249,7 +249,7 @@ bhs	bho			bhs	0
 bhu	bho			bhu	0
 bhx	bhw	a	(Lbxg;)V	1	0
 bia	bhz			1	4104
-bib	bhz			2	8
+bib	bhz			bib	8
 bic	bib	<init>	(Ljava/lang/String;)V	1	0
 bie	bid			bie	0
 bil	bik	a	(IIIIILbor;IIZ)V	1	0

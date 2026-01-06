@@ -415,7 +415,7 @@ brp	brl			brp	0
 brr	brl			brr	0
 bru	brt	a	(Lcnz;)V	1	0
 brx	brw			1	4104
-bry	brw			2	8
+bry	brw			bry	8
 brz	bry	<init>	(Ljava/lang/String;)V	1	0
 bsb	bsa			bsb	0
 bsi	bsh	a	(IIIIILcaw;IIZ)V	1	0

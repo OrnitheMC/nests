@@ -258,7 +258,7 @@ bih	bid			bih	0
 bij	bid			bij	0
 bim	bil	a	(Lbxx;)V	1	0
 bip	bio			1	4104
-biq	bio			2	8
+biq	bio			biq	8
 bir	biq	<init>	(Ljava/lang/String;)V	1	0
 bit	bis			bit	0
 bja	biz	a	(IIIIILbph;IIZ)V	1	0

@@ -445,7 +445,7 @@ btn	btj			btn	0
 btp	btj			btp	0
 bts	btr	a	(Lcrt;)V	1	0
 btv	btu			1	4104
-btw	btu			2	8
+btw	btu			btw	8
 btx	btw	<init>	(Ljava/lang/String;)V	1	0
 btz	bty			btz	0
 bug	buf	a	(IIIIILcdw;IIZ)V	1	0

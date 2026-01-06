@@ -413,7 +413,7 @@ brh	brd			brh	0
 brj	brd			brj	0
 brm	brl	a	(Lcnr;)V	1	0
 brp	bro			1	4104
-brq	bro			2	8
+brq	bro			brq	8
 brr	brq	<init>	(Ljava/lang/String;)V	1	0
 brt	brs			brt	0
 bsa	brz	a	(IIIIILcao;IIZ)V	1	0

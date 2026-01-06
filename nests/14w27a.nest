@@ -449,7 +449,7 @@ bug	buc			bug	0
 bui	buc			bui	0
 bul	buk	a	(Lcsd;)V	1	0
 buo	bun			1	4104
-bup	bun			2	8
+bup	bun			bup	8
 buq	bup	<init>	(Ljava/lang/String;)V	1	0
 bus	bur			bus	0
 buz	buy	a	(IIIIILceq;IIZ)V	1	0

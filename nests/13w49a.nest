@@ -219,7 +219,7 @@ bgc	bfy			bgc	0
 bge	bfy			bge	0
 bgh	bgg	a	(Lbvm;)V	1	0
 bgk	bgj			1	4104
-bgl	bgj			2	8
+bgl	bgj			bgl	8
 bgm	bgl	<init>	(Ljava/lang/String;)V	1	0
 bgo	bgn			bgo	0
 bgv	bgu	a	(IIIIILbmy;IIZ)V	1	0
