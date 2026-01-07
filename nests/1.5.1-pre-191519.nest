@@ -251,6 +251,7 @@ gk	fx	a	()V	12	8
 gl	fx	a	()V	13	8
 gm	fx	a	()V	14	8
 gn	net/minecraft/server/MinecraftServer	b	(Ljava/lang/String;)V	1	1
+go	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
 gp	net/minecraft/server/MinecraftServer	t	()V	3	1
 gq	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	4	1
 gr	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	5	1
@@ -261,6 +262,11 @@ ia	hz	<init>	(Ljava/io/File;)V	1	0
 ib	hz	c	()Z	2	0
 ic	hz	b	(Lb;)Lb;	3	0
 id	hz	b	(Lb;)Lb;	4	0
+ih	ig	a	(Lhz;)V	1	8
+ii	ig	d	()Ljavax/swing/JComponent;	2	0
+ij	ig	d	()Ljavax/swing/JComponent;	3	0
+im	il	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
+io	in	<init>	(Ljavax/swing/JTextArea;)V	1	0
 iu	it	a	(Lmp;IIZ)V	1	0
 ix	iw			ix	0
 j	b	h	()V	8	0
