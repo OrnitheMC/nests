@@ -201,7 +201,6 @@ bky	bkw	b	(Lb;)Lb;	2	0
 bll	blk	i	()V	1	0
 blm	blk			blm	8
 blo	bln	c	(Ljava/lang/String;)Ljava/net/URL;	1	0
-blp	blo	openConnection	(Ljava/net/URL;)Ljava/net/URLConnection;	1	0
 blr	blq	g	()V	1	0
 blu	blt	b	()V	1	0
 blv	blt	a	(Ljava/util/Map;)V	2	0
@@ -242,22 +241,16 @@ hc	gp	a	()V	12	8
 hd	gp	a	()V	13	8
 he	gp	a	()V	14	8
 hf	net/minecraft/server/MinecraftServer	a	(Ljava/lang/String;)V	1	1
-hg	net/minecraft/server/MinecraftServer	main	([Ljava/lang/String;)V	2	9
-hh	net/minecraft/server/MinecraftServer	v	()V	3	1
-hi	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	4	1
-hj	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	5	1
-hk	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	6	1
+hh	net/minecraft/server/MinecraftServer	v	()V	2	1
+hi	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	3	1
+hj	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	4	1
+hk	net/minecraft/server/MinecraftServer	b	(Lb;)Lb;	5	1
 i	b	h	()V	7	0
 is	ir	<init>	(Ljava/io/File;)V	1	0
 it	ir	d	()Z	2	0
 iu	ir	b	(Lb;)Lb;	3	0
 iv	ir	b	(Lb;)Lb;	4	0
-iz	iy	a	(Lir;)V	1	8
 j	b	h	()V	8	0
-ja	iy	d	()Ljavax/swing/JComponent;	2	0
-jb	iy	d	()Ljavax/swing/JComponent;	3	0
-je	jd	<init>	(Lnet/minecraft/server/MinecraftServer;)V	1	0
-jg	jf	<init>	(Ljavax/swing/JTextArea;)V	1	0
 jm	jl	a	(Lnm;IIZ)V	1	0
 jp	jo			jp	0
 js	jr			1	4104
