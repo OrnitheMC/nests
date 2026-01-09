@@ -1,4 +1,4 @@
-aaa	zy			aaa	0
+aaa	zy			aaa	8
 aag	aaf	<init>	(Lyw;Laha;III)V	1	0
 aah	aaf	<init>	(Lyw;Laha;III)V	2	0
 aam	aal	<init>	(Lra;Lra;Lwh;)V	1	0
@@ -227,7 +227,7 @@ bhr	bhp			bhr	0
 bhs	bhp			bhs	0
 bhw	bhv	a	(Lbxm;)V	1	0
 bhz	bhy			1	4104
-bia	bhy			2	8
+bia	bhy			bia	8
 bib	bia	<init>	(Ljava/lang/String;)V	1	0
 bid	bic			bid	0
 big	bif	h	()V	1	0
