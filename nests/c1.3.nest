@@ -1,0 +1,3 @@
+com/mojang/minecraft/server/a	com/mojang/minecraft/server/d	a	(Lcom/mojang/minecraft/a/a;[Ljava/lang/Object;)V	1	0
+com/mojang/minecraft/server/f	com/mojang/minecraft/server/MinecraftServer			f	26
+com/mojang/minecraft/server/e	com/mojang/minecraft/server/MinecraftServer	run	()V	1	0

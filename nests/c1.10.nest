@@ -1,0 +1,8 @@
+com/mojang/minecraft/level/BlockMap$Slot	com/mojang/minecraft/level/BlockMap			Slot	2
+com/mojang/minecraft/level/d	com/mojang/minecraft/level/BlockMap			1	4104
+com/mojang/minecraft/level/tile/Tile$SoundType	com/mojang/minecraft/level/tile/a			SoundType	16409
+com/mojang/minecraft/server/a	com/mojang/minecraft/server/h	a	(Lcom/mojang/minecraft/a/a;[Ljava/lang/Object;)V	1	0
+com/mojang/minecraft/server/b	com/mojang/minecraft/server/MinecraftServer			b	26
+com/mojang/minecraft/server/c	com/mojang/minecraft/server/MinecraftServer			c	26
+com/mojang/minecraft/server/d	com/mojang/minecraft/server/MinecraftServer	run	()V	1	0
+com/mojang/minecraft/server/e	com/mojang/minecraft/server/MinecraftServer	<init>	()V	2	0
