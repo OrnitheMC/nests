@@ -6,3 +6,4 @@ com/mojang/minecraft/i	com/mojang/minecraft/h			2	4105
 com/mojang/minecraft/level/tile/Tile$SoundType	com/mojang/minecraft/level/tile/a			SoundType	16409
 com/mojang/minecraft/net/d	com/mojang/minecraft/net/NetworkPlayer	<init>	(Lcom/mojang/minecraft/h;ILjava/lang/String;IIIFF)V	1	0
 com/mojang/minecraft/net/e	com/mojang/minecraft/net/c	<init>	(Lcom/mojang/minecraft/h;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V	1	0
+de/jarnbjo/vorbis/k	de/jarnbjo/vorbis/n			k	16
